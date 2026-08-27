@@ -3,51 +3,77 @@
 @tailwind utilities;
 
 @layer base {
-  body {
-    font-family: 'Inter', sans-serif;
-    background-color: #FAF7F0;
-    color: #141413;
-    overflow-x: hidden;
-  }
-  
-  h1, h2, h3, .font-serif {
-    font-family: 'Cinzel', 'Playfair Display', Georgia, serif;
-    letter-spacing: 0.02em;
+  :root {
+    --color-bg-primary: #FBF9F5;
+    --color-bg-card: rgba(255, 255, 255, 0.75);
+    --color-border-card: rgba(231, 224, 213, 0.8);
+    --color-text-main: #1C1917;
+    --color-text-muted: #57534E;
+    --color-accent: #C85A32;
+    --color-accent-glow: rgba(200, 90, 50, 0.15);
   }
 
-  .font-reading {
-    font-family: 'Lora', Georgia, serif;
+  .dark {
+    --color-bg-primary: #0A0A0A;
+    --color-bg-card: rgba(26, 24, 23, 0.75);
+    --color-border-card: rgba(255, 255, 255, 0.1);
+    --color-text-main: #F5F5F4;
+    --color-text-muted: #A8A29E;
+    --color-accent: #E07A5F;
+    --color-accent-glow: rgba(224, 122, 95, 0.25);
+  }
+
+  body {
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-main);
+    transition: background-color 0.4s ease, color 0.4s ease;
   }
 }
 
-/* Custom Scrollbars */
+/* Apple-grade Glassmorphism Bento Card */
+.apple-card {
+  background: var(--color-bg-card);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--color-border-card);
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05), inset 0 1px 1px rgba(255, 255, 255, 0.6);
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.dark .apple-card {
+  box-shadow: 0 4px 30px -2px rgba(0, 0, 0, 0.5), inset 0 1px 1px rgba(255, 255, 255, 0.1);
+}
+
+.apple-card:hover {
+  transform: translateY(-3px) scale(1.008);
+  box-shadow: 0 12px 32px -4px rgba(0, 0, 0, 0.08), inset 0 1px 1px rgba(255, 255, 255, 0.8);
+}
+
+.dark .apple-card:hover {
+  box-shadow: 0 12px 36px -4px rgba(0, 0, 0, 0.7), inset 0 1px 1px rgba(224, 122, 95, 0.3);
+  border-color: rgba(224, 122, 95, 0.4);
+}
+
+/* Fluid Apple Pill Button */
+.apple-pill {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.apple-pill:active {
+  transform: scale(0.96);
+}
+
+/* Custom Scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #FAF7F0;
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #D5C8B4;
-  border-radius: 4px;
+  background: rgba(140, 109, 70, 0.25);
+  border-radius: 9999px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #B3A086;
-}
-
-/* Focus outline for keyboard navigation accessibility */
-*:focus-visible {
-  outline: 2px solid #C05638;
-  outline-offset: 2px;
-}
-
-.pergamino-card {
-  background: linear-gradient(135deg, #FDFCF9 0%, #FAF7F0 100%);
-  border: 1px solid #E5DCB8;
-  box-shadow: 0 4px 20px -2px rgba(61, 52, 43, 0.05);
-}
-
-.gold-border {
-  border-color: #D4AF37;
+  background: rgba(200, 90, 50, 0.5);
 }
