@@ -1,12 +1,65 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import { X, ArrowRightLeft, Sparkles, ShieldAlert, BookOpen, AlertTriangle, Compass } from "lucide-react";
 
 export default function ThinkerCompareModal({ thinkerA, thinkerB, onClose }) {
+  const modalRef = useRef(null);
+  const closeBtnRef = useRef(null);
+
+  useEffect(() => {
+    if (!thinkerA || !thinkerB) return;
+    const previousActiveElement = document.activeElement;
+
+    if (closeBtnRef.current) {
+      closeBtnRef.current.focus();
+    }
+
+    const handleKeyDown = (e) => {
+      if (e.key === "Escape") {
+        e.preventDefault();
+        onClose();
+      }
+
+      if (e.key === "Tab" && modalRef.current) {
+        const focusableElements = modalRef.current.querySelectorAll(
+          "button, [href], input, select, textarea, [tabindex]:not([tabindex=\"-1\"])"
+        );
+        const firstElement = focusableElements[0];
+        const lastElement = focusableElements[focusableElements.length - 1];
+
+        if (e.shiftKey) {
+          if (document.activeElement === firstElement) {
+            lastElement.focus();
+            e.preventDefault();
+          }
+        } else {
+          if (document.activeElement === lastElement) {
+            firstElement.focus();
+            e.preventDefault();
+          }
+        }
+      }
+    };
+
+    document.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+      if (previousActiveElement && typeof previousActiveElement.focus === "function") {
+        previousActiveElement.focus();
+      }
+    };
+  }, [thinkerA, thinkerB, onClose]);
+
   if (!thinkerA || !thinkerB) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-black/60 backdrop-blur-xl overflow-y-auto animate-fadeIn">
-      <div className="apple-card w-full max-w-5xl max-h-[90vh] rounded-3xl overflow-y-auto border border-white/20 dark:border-white/10 relative shadow-2xl" role="dialog">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-black/60 backdrop-blur-xl overflow-y-auto animate-fadeIn" role="presentation">
+      <div
+        ref={modalRef}
+        className="apple-card w-full max-w-5xl max-h-[90vh] rounded-3xl overflow-y-auto border border-white/20 dark:border-white/10 relative shadow-2xl"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-compare-title"
+      >
         {/* Header */}
         <div className="sticky top-0 bg-parchment-100/90 dark:bg-ink-950/90 backdrop-blur-2xl border-b border-parchment-300/80 dark:border-white/10 p-6 sm:p-8 flex items-center justify-between z-10">
           <div className="flex items-center space-x-3">
@@ -14,11 +67,18 @@ export default function ThinkerCompareModal({ thinkerA, thinkerB, onClose }) {
               <ArrowRightLeft className="w-5 h-5" />
             </div>
             <div>
-              <h3 className="text-xl sm:text-2xl font-serif font-bold text-ink-900 dark:text-white">Ágora de Confrontación Dialéctica</h3>
-              <span className="text-xs text-ink-500 dark:text-ink-400">Comparación conceptual lado a lado</span>
+              <h3 id="modal-compare-title" className="text-xl sm:text-2xl font-serif font-bold text-ink-900 dark:text-white">Ágora de Confrontación Dialéctica</h3>
+              <span className="text-xs text-ink-500 dark:text-ink-400">Comparación conceptual lado a lado ({thinkerA.nombre} vs. {thinkerB.nombre})</span>
             </div>
           </div>
-          <button onClick={onClose} className="p-2.5 rounded-full hover:bg-black/5 dark:hover:bg-white/10 text-ink-600 dark:text-ink-400 hover:text-ink-900 dark:hover:text-white transition-all"><X className="w-6 h-6" /></button>
+          <button
+            ref={closeBtnRef}
+            onClick={onClose}
+            aria-label="Cerrar modal de comparación"
+            className="p-2.5 rounded-full hover:bg-black/5 dark:hover:bg-white/10 text-ink-600 dark:text-ink-400 hover:text-ink-900 dark:hover:text-white transition-all"
+          >
+            <X className="w-6 h-6" />
+          </button>
         </div>
 
         {/* Compare Grid */}

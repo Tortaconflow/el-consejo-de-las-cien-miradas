@@ -1,7 +1,56 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import { X, BookOpen, AlertTriangle, Scale, ShieldAlert, Sparkles, MapPin, Calendar, Compass } from "lucide-react";
 
 export default function ThinkerModal({ thinker, onClose }) {
+  const modalRef = useRef(null);
+  const closeBtnRef = useRef(null);
+
+  useEffect(() => {
+    if (!thinker) return;
+    const previousActiveElement = document.activeElement;
+
+    // Focus initial element
+    if (closeBtnRef.current) {
+      closeBtnRef.current.focus();
+    }
+
+    const handleKeyDown = (e) => {
+      if (e.key === "Escape") {
+        e.preventDefault();
+        onClose();
+      }
+
+      // Trap focus
+      if (e.key === "Tab" && modalRef.current) {
+        const focusableElements = modalRef.current.querySelectorAll(
+          "button, [href], input, select, textarea, [tabindex]:not([tabindex=\"-1\"])"
+        );
+        const firstElement = focusableElements[0];
+        const lastElement = focusableElements[focusableElements.length - 1];
+
+        if (e.shiftKey) {
+          if (document.activeElement === firstElement) {
+            lastElement.focus();
+            e.preventDefault();
+          }
+        } else {
+          if (document.activeElement === lastElement) {
+            firstElement.focus();
+            e.preventDefault();
+          }
+        }
+      }
+    };
+
+    document.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+      if (previousActiveElement && typeof previousActiveElement.focus === "function") {
+        previousActiveElement.focus();
+      }
+    };
+  }, [thinker, onClose]);
+
   if (!thinker) return null;
 
   const getConcernBadge = (level) => {
@@ -14,8 +63,15 @@ export default function ThinkerModal({ thinker, onClose }) {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-black/60 backdrop-blur-xl overflow-y-auto animate-fadeIn">
-      <div className="apple-card w-full max-w-3xl max-h-[90vh] rounded-3xl overflow-y-auto relative border border-white/20 dark:border-white/10" role="dialog" aria-modal="true">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-black/60 backdrop-blur-xl overflow-y-auto animate-fadeIn" role="presentation">
+      <div
+        ref={modalRef}
+        className="apple-card w-full max-w-3xl max-h-[90vh] rounded-3xl overflow-y-auto relative border border-white/20 dark:border-white/10"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-thinker-title"
+        aria-describedby="modal-thinker-metaphor"
+      >
         {/* Modal Header */}
         <div className="sticky top-0 bg-parchment-100/90 dark:bg-ink-950/90 backdrop-blur-2xl border-b border-parchment-300/80 dark:border-white/10 p-6 sm:p-8 flex items-start justify-between z-10">
           <div className="space-y-1.5">
@@ -24,14 +80,21 @@ export default function ThinkerModal({ thinker, onClose }) {
               <span className="px-3 py-1 rounded-full text-xs font-semibold bg-terracotta-500/10 dark:bg-terracotta-500/20 text-terracotta-700 dark:text-terracotta-400 border border-terracotta-500/20">{thinker.postura_tecnica}</span>
               <span className="px-3 py-1 rounded-full text-xs font-semibold bg-parchment-300/60 dark:bg-white/10 text-ink-800 dark:text-ink-300">{thinker.tipo_de_afirmacion === "textual_directa" ? "Textual Directa" : "Extrapolación Rigurosa"}</span>
             </div>
-            <h2 className="text-3xl sm:text-4xl font-serif font-bold text-ink-900 dark:text-white pt-1">{thinker.nombre}</h2>
+            <h2 id="modal-thinker-title" className="text-3xl sm:text-4xl font-serif font-bold text-ink-900 dark:text-white pt-1">{thinker.nombre}</h2>
             <div className="flex flex-wrap items-center gap-4 text-xs text-ink-500 dark:text-ink-400 font-medium pt-1">
               <span className="flex items-center space-x-1"><Compass className="w-3.5 h-3.5 text-bronze-600 dark:text-amber-400" /><span>{thinker.tradicion}</span></span>
               <span className="flex items-center space-x-1"><MapPin className="w-3.5 h-3.5 text-bronze-600 dark:text-amber-400" /><span>{thinker.region}</span></span>
               <span className="flex items-center space-x-1"><Calendar className="w-3.5 h-3.5 text-bronze-600 dark:text-amber-400" /><span>{thinker.epoca}</span></span>
             </div>
           </div>
-          <button onClick={onClose} className="p-2.5 rounded-full hover:bg-black/5 dark:hover:bg-white/10 text-ink-600 dark:text-ink-400 hover:text-ink-900 dark:hover:text-white transition-all"><X className="w-6 h-6" /></button>
+          <button
+            ref={closeBtnRef}
+            onClick={onClose}
+            aria-label="Cerrar modal de pensador"
+            className="p-2.5 rounded-full hover:bg-black/5 dark:hover:bg-white/10 text-ink-600 dark:text-ink-400 hover:text-ink-900 dark:hover:text-white transition-all"
+          >
+            <X className="w-6 h-6" />
+          </button>
         </div>
 
         {/* Modal Body */}
@@ -39,7 +102,7 @@ export default function ThinkerModal({ thinker, onClose }) {
           <div className="space-y-3 bg-terracotta-500/5 dark:bg-terracotta-500/10 p-6 rounded-2xl border border-terracotta-500/20">
             <div>
               <span className="text-xs uppercase font-bold tracking-widest text-terracotta-700 dark:text-terracotta-400 flex items-center space-x-1.5"><Sparkles className="w-3.5 h-3.5" /><span>Metáfora para comprender la IA</span></span>
-              <p className="text-lg sm:text-xl font-serif italic text-ink-900 dark:text-ink-100 leading-relaxed pt-1.5">“{thinker.metafora_para_comprender_la_ia}”</p>
+              <p id="modal-thinker-metaphor" className="text-lg sm:text-xl font-serif italic text-ink-900 dark:text-ink-100 leading-relaxed pt-1.5">“{thinker.metafora_para_comprender_la_ia}”</p>
             </div>
             <div className="pt-3 border-t border-terracotta-500/20">
               <span className="text-xs uppercase font-bold tracking-widest text-terracotta-700 dark:text-terracotta-400">Pregunta Inicial</span>

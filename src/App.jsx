@@ -51,7 +51,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4">
           <p className="font-serif font-semibold text-ink-900 dark:text-ink-100 text-sm">El Consejo de las Cien Miradas &copy; 2026</p>
           <p className="font-reading pt-1">Sistema Digital de Deliberación Ética y Filosofía ante la Técnica y la Inteligencia Artificial.</p>
-          <p className="text-[11px] text-ink-500 dark:text-ink-400 pt-1">Arquitectura con WCAG 2.2 AA · 100 voces · 10 salas dialécticas · Cero dependencias externas vulnerables.</p>
+          <p className="text-[11px] text-ink-500 dark:text-ink-400 pt-1">Arquitectura accesible con WCAG 2.2 AA · 100 voces · 10 salas dialécticas · Dependencias revisadas y seguridad en mejora continua.</p>
         </div>
       </footer>
     </div>
