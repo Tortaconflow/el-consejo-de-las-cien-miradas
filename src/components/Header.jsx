@@ -1,11 +1,12 @@
 import React from "react";
-import { BookOpen, Compass, Users, GitBranch, Lightbulb, FileText, Sparkles, Sun, Moon } from "lucide-react";
+import { BookOpen, Compass, Users, GitBranch, Lightbulb, FileText, Sparkles, Sun, Moon, Wand2 } from "lucide-react";
 
 export default function Header({ activeTab, setActiveTab, isDark, setIsDark }) {
   const tabs = [
     { id: "intro", label: "Prólogo", icon: BookOpen },
+    { id: "oracle", label: "Oráculo (Consulta)", icon: Wand2 },
     { id: "atlas", label: "Atlas (100)", icon: Users },
-    { id: "councils", label: "Salas de Debate (10)", icon: Compass },
+    { id: "councils", label: "Salas de Debate", icon: Compass },
     { id: "dependency", label: "Mapa de Dependencia", icon: GitBranch },
     { id: "lab", label: "Laboratorio Socrático", icon: Lightbulb },
     { id: "manifesto", label: "Manifiesto", icon: FileText }
@@ -39,7 +40,7 @@ export default function Header({ activeTab, setActiveTab, isDark, setIsDark }) {
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id)}
-                  className={`flex items-center space-x-2 px-3.5 py-2 rounded-xl text-xs font-semibold apple-pill ${
+                  className={`flex items-center space-x-1.5 px-3 py-2 rounded-xl text-xs font-semibold apple-pill ${
                     isActive
                       ? "bg-terracotta-600 text-white shadow-md shadow-terracotta-600/30"
                       : "text-ink-700 dark:text-ink-300 hover:text-ink-900 dark:hover:text-white hover:bg-white/60 dark:hover:bg-white/10"

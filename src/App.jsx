@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Header from "./components/Header.jsx";
 import Intro from "./components/Intro.jsx";
+import Oracle from "./components/Oracle.jsx";
 import Atlas from "./components/Atlas.jsx";
 import Councils from "./components/Councils.jsx";
 import DependencyMap from "./components/DependencyMap.jsx";
@@ -33,6 +34,7 @@ export default function App() {
 
       <main className="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fadeIn">
         {activeTab === "intro" && <Intro setActiveTab={setActiveTab} />}
+        {activeTab === "oracle" && <Oracle />}
         {activeTab === "atlas" && <Atlas />}
         {activeTab === "councils" && <Councils />}
         {activeTab === "dependency" && <DependencyMap />}
@@ -44,7 +46,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4">
           <p className="font-serif font-semibold text-ink-900 dark:text-ink-100 text-sm">El Consejo de las Cien Miradas &copy; 2026</p>
           <p className="font-reading pt-1">Sistema Digital de Deliberación Ética y Filosofía ante la Técnica y la Inteligencia Artificial.</p>
-          <p className="text-[11px] text-ink-500 dark:text-ink-500 pt-1">Diseño con estándares Apple Design · 100 voces · 10 salas dialécticas · Cero citas apócrifas.</p>
+          <p className="text-[11px] text-ink-500 dark:text-ink-500 pt-1">Diseño con estándares Apple Design · 100 voces · 10 salas dialécticas · Oráculo Socrático.</p>
         </div>
       </footer>
     </div>
