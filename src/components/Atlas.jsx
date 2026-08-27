@@ -1,7 +1,8 @@
 import React, { useState, useMemo } from "react";
-import { Search, Filter, Sparkles, MapPin, Calendar, ShieldAlert, Compass, Eye } from "lucide-react";
+import { Search, Filter, Sparkles, MapPin, Calendar, ShieldAlert, Compass, Eye, ArrowRightLeft, Check } from "lucide-react";
 import thinkersData from "../../data/thinkers.json";
 import ThinkerModal from "./ThinkerModal.jsx";
+import ThinkerCompareModal from "./ThinkerCompareModal.jsx";
 
 export default function Atlas() {
   const [search, setSearch] = useState("");
@@ -9,6 +10,8 @@ export default function Atlas() {
   const [selectedStance, setSelectedStance] = useState("all");
   const [selectedConcern, setSelectedConcern] = useState("all");
   const [activeThinker, setActiveThinker] = useState(null);
+  const [compareList, setCompareList] = useState([]);
+  const [showCompareModal, setShowCompareModal] = useState(false);
 
   const traditions = useMemo(() => {
     const set = new Set(thinkersData.map((t) => t.tradicion));
@@ -34,14 +37,45 @@ export default function Atlas() {
     });
   }, [search, selectedTradition, selectedStance, selectedConcern]);
 
+  const toggleCompare = (e, thinker) => {
+    e.stopPropagation();
+    if (compareList.some((x) => x.id === thinker.id)) {
+      setCompareList((prev) => prev.filter((x) => x.id !== thinker.id));
+    } else {
+      if (compareList.length >= 2) {
+        setCompareList([compareList[1], thinker]);
+      } else {
+        setCompareList((prev) => [...prev, thinker]);
+      }
+    }
+  };
+
   return (
     <div className="space-y-8 py-6">
       <div className="text-center max-w-3xl mx-auto space-y-2">
         <h2 className="text-3xl sm:text-4xl font-serif font-bold text-ink-900">Atlas de Pensadores</h2>
         <p className="text-sm sm:text-base text-ink-600 font-reading">
-          Explora la polifonía de exactamente 100 voces ante la técnica, filtrando por tradición, postura ontológica o nivel de preocupación.
+          Explora la polifonía de exactamente 100 voces ante la técnica, filtrando por tradición o comparándolas cara a cara.
         </p>
       </div>
+
+      {/* Comparison Floating Action Bar */}
+      {compareList.length > 0 && (
+        <div className="sticky top-24 z-30 max-w-2xl mx-auto bg-ink-900 text-white p-4 rounded-2xl shadow-xl border border-terracotta-500/40 flex items-center justify-between animate-fadeIn">
+          <div className="flex items-center space-x-2 text-xs">
+            <ArrowRightLeft className="w-4 h-4 text-terracotta-400" />
+            <span>Confrontar: <strong>{compareList.map((t) => t.nombre).join(" vs. ")}</strong> ({compareList.length}/2)</span>
+          </div>
+          <div className="flex items-center space-x-2">
+            <button onClick={() => setCompareList([])} className="text-xs text-ink-300 hover:text-white px-2 py-1">Limpiar</button>
+            {compareList.length === 2 && (
+              <button onClick={() => setShowCompareModal(true)} className="px-3 py-1.5 rounded-lg bg-terracotta-600 text-white text-xs font-bold shadow hover:bg-terracotta-700 transition-all">
+                Abrir Comparador
+              </button>
+            )}
+          </div>
+        </div>
+      )}
 
       {/* Search & Filter Controls */}
       <div className="pergamino-card p-6 rounded-2xl shadow-sm space-y-4 max-w-6xl mx-auto border border-parchment-300">
@@ -101,7 +135,7 @@ export default function Atlas() {
         </div>
 
         <div className="flex items-center justify-between pt-2 border-t border-parchment-200 text-xs text-ink-600">
-          <span>Mostrando <strong>{filteredThinkers.length}</strong> de <strong>{thinkersData.length}</strong> pensadores catalogados</span>
+          <span>Mostrando <strong>{filteredThinkers.length}</strong> de <strong>{thinkersData.length}</strong> pensadores</span>
           {(search || selectedTradition !== "all" || selectedStance !== "all" || selectedConcern !== "all") && (
             <button
               onClick={() => {
@@ -120,58 +154,77 @@ export default function Atlas() {
 
       {/* Thinkers Cards Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
-        {filteredThinkers.map((t) => (
-          <div
-            key={t.id}
-            onClick={() => setActiveThinker(t)}
-            className="pergamino-card p-6 rounded-2xl hover:border-terracotta-500 hover:shadow-lg transition-all cursor-pointer flex flex-col justify-between space-y-4 group"
-          >
-            <div className="space-y-3">
-              <div className="flex items-start justify-between gap-2">
-                <div>
-                  <span className="text-xs font-semibold text-terracotta-700 bg-terracotta-500/10 px-2 py-0.5 rounded-full">
-                    {t.tradicion}
-                  </span>
-                  <h3 className="text-xl font-serif font-bold text-ink-900 group-hover:text-terracotta-600 transition-colors pt-1">
-                    {t.nombre}
-                  </h3>
+        {filteredThinkers.map((t) => {
+          const isCompared = compareList.some((x) => x.id === t.id);
+          return (
+            <div
+              key={t.id}
+              onClick={() => setActiveThinker(t)}
+              className={`pergamino-card p-6 rounded-2xl hover:border-terracotta-500 hover:shadow-lg transition-all cursor-pointer flex flex-col justify-between space-y-4 group ${
+                isCompared ? "ring-2 ring-terracotta-600 bg-terracotta-500/5" : ""
+              }`}
+            >
+              <div className="space-y-3">
+                <div className="flex items-start justify-between gap-2">
+                  <div>
+                    <span className="text-xs font-semibold text-terracotta-700 bg-terracotta-500/10 px-2 py-0.5 rounded-full">
+                      {t.tradicion}
+                    </span>
+                    <h3 className="text-xl font-serif font-bold text-ink-900 group-hover:text-terracotta-600 transition-colors pt-1">
+                      {t.nombre}
+                    </h3>
+                  </div>
+                  <button
+                    onClick={(e) => toggleCompare(e, t)}
+                    title={isCompared ? "Quitar de comparación" : "Añadir para comparar"}
+                    className={`p-1.5 rounded-lg border text-xs flex items-center space-x-1 transition-all ${
+                      isCompared
+                        ? "bg-terracotta-600 text-white border-terracotta-700"
+                        : "bg-white border-parchment-300 text-ink-600 hover:border-terracotta-500"
+                    }`}
+                  >
+                    {isCompared ? <Check className="w-3.5 h-3.5" /> : <ArrowRightLeft className="w-3.5 h-3.5" />}
+                  </button>
                 </div>
-                <span className={`px-2 py-0.5 text-xs rounded-full font-semibold border ${
-                  t.nivel_preocupacion === "Existencial" ? "bg-red-500/10 text-red-700 border-red-500/30" :
-                  t.nivel_preocupacion === "Alto" ? "bg-amber-500/10 text-amber-700 border-amber-500/30" :
-                  t.nivel_preocupacion === "Moderado" ? "bg-blue-500/10 text-blue-700 border-blue-500/30" :
-                  "bg-emerald-500/10 text-emerald-700 border-emerald-500/30"
-                }`}>{t.nivel_preocupacion}</span>
+
+                <div className="text-xs text-ink-500 space-y-1">
+                  <div className="flex items-center space-x-1.5"><MapPin className="w-3.5 h-3.5" /><span>{t.region}</span></div>
+                  <div className="flex items-center space-x-1.5"><Calendar className="w-3.5 h-3.5" /><span>{t.epoca}</span></div>
+                </div>
+
+                <p className="text-xs sm:text-sm font-serif italic text-ink-800 line-clamp-2 bg-parchment-200/50 p-2.5 rounded-lg border border-parchment-200">
+                  “{t.metafora_para_comprender_la_ia}”
+                </p>
               </div>
 
-              <div className="text-xs text-ink-500 space-y-1">
-                <div className="flex items-center space-x-1.5"><MapPin className="w-3.5 h-3.5" /><span>{t.region}</span></div>
-                <div className="flex items-center space-x-1.5"><Calendar className="w-3.5 h-3.5" /><span>{t.epoca}</span></div>
+              <div className="pt-3 border-t border-parchment-200 flex items-center justify-between text-xs text-ink-500">
+                <div className="flex flex-wrap gap-1">
+                  {t.conceptos_centrales.slice(0, 2).map((c, i) => (
+                    <span key={i} className="px-2 py-0.5 bg-white border border-parchment-300 rounded text-[11px] font-medium">{c}</span>
+                  ))}
+                </div>
+                <span className="flex items-center space-x-1 text-terracotta-600 font-semibold group-hover:translate-x-1 transition-transform">
+                  <span>Dossier</span>
+                  <Eye className="w-3.5 h-3.5" />
+                </span>
               </div>
-
-              <p className="text-xs sm:text-sm font-serif italic text-ink-800 line-clamp-2 bg-parchment-200/50 p-2.5 rounded-lg border border-parchment-200">
-                “{t.metafora_para_comprender_la_ia}”
-              </p>
             </div>
-
-            <div className="pt-3 border-t border-parchment-200 flex items-center justify-between text-xs text-ink-500">
-              <div className="flex flex-wrap gap-1">
-                {t.conceptos_centrales.slice(0, 2).map((c, i) => (
-                  <span key={i} className="px-2 py-0.5 bg-white border border-parchment-300 rounded text-[11px] font-medium">{c}</span>
-                ))}
-              </div>
-              <span className="flex items-center space-x-1 text-terracotta-600 font-semibold group-hover:translate-x-1 transition-transform">
-                <span>Dossier</span>
-                <Eye className="w-3.5 h-3.5" />
-              </span>
-            </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
 
       {/* Thinker Modal */}
       {activeThinker && (
         <ThinkerModal thinker={activeThinker} onClose={() => setActiveThinker(null)} />
+      )}
+
+      {/* Compare Modal */}
+      {showCompareModal && compareList.length === 2 && (
+        <ThinkerCompareModal
+          thinkerA={compareList[0]}
+          thinkerB={compareList[1]}
+          onClose={() => setShowCompareModal(false)}
+        />
       )}
     </div>
   );

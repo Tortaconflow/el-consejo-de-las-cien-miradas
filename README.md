@@ -1,45 +1,66 @@
 ﻿# El Consejo de las Cien Miradas
 
-> Sistema Digital de Investigación Filosófica y Experiencia Web Interactiva ante la Inteligencia Artificial y la Técnica.
+[![CI Quality Assurance](https://github.com/Tortaconflow/el-consejo-de-las-cien-miradas/actions/workflows/ci.yml/badge.svg)](https://github.com/Tortaconflow/el-consejo-de-las-cien-miradas/actions)
+![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.x-purple?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwind-css)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Descripción
+> **Sistema Digital de Investigación Filosófica y Plataforma Web Interactiva ante la Inteligencia Artificial y la Técnica.**
 
-**El Consejo de las Cien Miradas** reúne el pensamiento de 100 autores y tradiciones universales (presocráticos, Grecia clásica, filosofías asiáticas —daoísmo, budismo, vedanta, zen—, pensamiento islámico, africano, medieval, ilustración, crítica moderna y contemporánea) para examinar los dilemas de la automatización algorítmica, la delegación noética y la preservación de la autonomía humana.
+🌐 **Sitio Web Desplegado**: [https://paleturquoise-ape-474432.hostingersite.com/](https://paleturquoise-ape-474432.hostingersite.com/)
 
-## Módulos y Arquitectura
+---
+
+## 🏛️ Descripción
+
+**El Consejo de las Cien Miradas** reúne el pensamiento de 100 autores y tradiciones universales (presocráticos, Grecia clásica, filosofías asiáticas —daoísmo, budismo, vedanta, zen—, pensamiento islámico, africano, medieval, ilustración, crítica moderna y contemporánea) junto con la evidencia empírica contemporánea (*Bastani et al., Noy & Zhang, Brynjolfsson et al.*) para examinar los dilemas de la automatización algorítmica, la delegación noética y la preservación de la autonomía humana.
+
+---
+
+## 🚀 Módulos y Arquitectura
 
 1. **Prólogo Narrativo**: Manifiesto y fundamentación ética sin clichés futuristas, con una dirección de arte editorial cálida (*pergamino, terracota, bronce y tinta*).
 2. **Atlas de Pensadores**: 100 fichas estructuradas con filtros facetados por época, tradición, postura técnica y nivel de preocupación.
-3. **Dossiers Hermenéuticos**: Distinción transparente entre citas directas, extrapolaciones rigurosas y límites históricos situados.
-4. **10 Salas de Consejo**: Debates dialécticos cruzados (Tesis, Antítesis y Síntesis de Autonomía).
-5. **Mapa de Dependencia Multidimensional**:
+3. **Ágora de Confrontación Dialéctica (Nuevo)**: Comparador cara a cara en tiempo real entre cualquiera de las 100 voces (metáforas, posturas y fuentes).
+4. **Dossiers Hermenéuticos**: Distinción transparente entre citas directas, extrapolaciones rigurosas y límites históricos situados.
+5. **10 Salas de Consejo**: Debates dialécticos cruzados (Tesis, Antítesis y Síntesis de Autonomía).
+6. **Mapa de Dependencia Multidimensional**:
    - Modelo de Doble Eje: *Eje de Competencia (Dependencia de Capacidad)* vs. *Eje de Poder (Dependencia Infraestructural y Subordinación)*.
    - Evidencia empírica contemporánea (Bastani et al., Noy & Zhang, Brynjolfsson et al., Vaccaro et al.).
    - Cadena formal de responsabilidad noética.
-6. **Laboratorio de Decisiones y Calibración**:
+7. **Laboratorio de Decisiones y Calibración**:
    - Simulador con selector de modo (*Modo Tutor Socrático con andamiaje* vs. *Modo Respuesta Directa con alerta de atrofia*).
    - Evaluación de Confianza Calibrada (aceptación de aciertos $\ge 80\%$ y rechazo de errores $\ge 80\%$).
-7. **Constitución Mínima y Manifiesto**: Carta de Autonomía Humana de 5 artículos y 3 principios normativos exportable en JSON y texto.
+8. **Constitución Mínima y Manifiesto**: Carta de Autonomía Humana de 5 artículos y 3 principios normativos exportable en JSON y texto.
 
-## Instalación y Ejecución
+---
+
+## 💻 Instalación y Ejecución Local
 
 ```bash
-# Instalar dependencias
+# 1. Clonar el repositorio
+git clone https://github.com/Tortaconflow/el-consejo-de-las-cien-miradas.git
+cd el-consejo-de-las-cien-miradas
+
+# 2. Instalar dependencias
 npm install
 
-# Ejecutar suite de validación de datos
+# 3. Ejecutar suite de validación de integridad
 npm test
 
-# Iniciar servidor de desarrollo local
+# 4. Iniciar servidor de desarrollo local
 npm run dev
 
-# Compilar para producción
+# 5. Compilar para producción
 npm run build
 ```
 
-## Estructura del Repositorio
+---
 
-- `SYSTEM_SPEC.md`, `RESEARCH_SPEC.md`, `CONTENT_SCHEMA.md`, `TEST_SPEC.md`, `TASK_PLAN.md`, `SOURCE_POLICY.md`: Contratos de calidad y especificaciones.
-- `data/`: Datasets JSON estructurados (`thinkers.json`, `councils.json`, `dependency_matrix.json`, `decision_lab.json`, `manifesto.json`).
-- `src/`: Código fuente React 18, Vite y Tailwind CSS.
-- `scripts/`: Scripts de validación automatizada (`verify_system.js`).
+## 🧪 Pruebas de Calidad
+
+El proyecto incluye un pipeline automatizado de integración continua que ejecuta `npm test` verificando:
+- 100% de integridad referencial entre salas de debate y pensadores.
+- Cero campos requeridos nulos o incompletos.
+- Validación de las 6 fases y 7 dimensiones del mapa de dependencia.

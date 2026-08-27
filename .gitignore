@@ -2,3 +2,6 @@
 dist
 .DS_Store
 *.local
+*.rar
+*.zip
+*.7z
