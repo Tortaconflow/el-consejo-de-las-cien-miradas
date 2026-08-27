@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://paleturquoise-ape-474432.hostingersite.com/sitemap.xml

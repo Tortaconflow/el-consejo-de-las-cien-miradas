@@ -29,10 +29,15 @@ export default function App() {
   }, [isDark]);
 
   return (
-    <div className="min-h-screen bg-parchment-100 dark:bg-ink-950 flex flex-col font-sans text-ink-900 dark:text-ink-300 transition-colors duration-400 selection:bg-terracotta-500 selection:text-white">
+    <div className="min-h-screen bg-parchment-100 dark:bg-ink-950 flex flex-col font-sans text-ink-900 dark:text-ink-100 transition-colors duration-400 selection:bg-terracotta-500 selection:text-white">
+      {/* WCAG 2.2 Skip-to-content Link */}
+      <a href="#main-content" className="skip-to-content">
+        Saltar al contenido principal
+      </a>
+
       <Header activeTab={activeTab} setActiveTab={setActiveTab} isDark={isDark} setIsDark={setIsDark} />
 
-      <main className="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fadeIn">
+      <main id="main-content" tabIndex="-1" className="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fadeIn focus:outline-none" role="main">
         {activeTab === "intro" && <Intro setActiveTab={setActiveTab} />}
         {activeTab === "oracle" && <Oracle />}
         {activeTab === "atlas" && <Atlas />}
@@ -42,11 +47,11 @@ export default function App() {
         {activeTab === "manifesto" && <Manifesto />}
       </main>
 
-      <footer className="border-t border-parchment-300/80 dark:border-white/10 bg-parchment-200/50 dark:bg-ink-950/90 py-10 text-center text-xs text-ink-600 dark:text-ink-400 space-y-2 transition-colors">
+      <footer className="border-t border-parchment-300/80 dark:border-white/10 bg-parchment-200/50 dark:bg-ink-950/90 py-10 text-center text-xs text-ink-600 dark:text-ink-400 space-y-2 transition-colors" role="contentinfo">
         <div className="max-w-7xl mx-auto px-4">
           <p className="font-serif font-semibold text-ink-900 dark:text-ink-100 text-sm">El Consejo de las Cien Miradas &copy; 2026</p>
           <p className="font-reading pt-1">Sistema Digital de Deliberación Ética y Filosofía ante la Técnica y la Inteligencia Artificial.</p>
-          <p className="text-[11px] text-ink-500 dark:text-ink-500 pt-1">Diseño con estándares Apple Design · 100 voces · 10 salas dialécticas · Oráculo Socrático.</p>
+          <p className="text-[11px] text-ink-500 dark:text-ink-400 pt-1">Arquitectura con WCAG 2.2 AA · 100 voces · 10 salas dialécticas · Cero dependencias externas vulnerables.</p>
         </div>
       </footer>
     </div>

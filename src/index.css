@@ -4,29 +4,80 @@
 
 @layer base {
   :root {
-    --color-bg-primary: #FBF9F5;
-    --color-bg-card: rgba(255, 255, 255, 0.75);
-    --color-border-card: rgba(231, 224, 213, 0.8);
+    /* Brand & Accent Tokens */
+    --color-primary: #C85A32;
+    --color-primary-hover: #B54B25;
+    --color-primary-active: #963D1D;
+    --color-secondary: #8C6D46;
+    --color-secondary-hover: #735735;
+    --color-accent: #E07A5F;
+    --color-accent-glow: rgba(200, 90, 50, 0.2);
+
+    /* Light Theme (Porcelain Canvas) */
+    --color-bg-base: #FBF9F5;
+    --color-bg-card: rgba(255, 255, 255, 0.85);
+    --color-bg-card-elevated: rgba(244, 239, 230, 0.95);
+    --color-border-card: rgba(231, 223, 210, 0.85);
+    --color-border-subtle: rgba(231, 223, 210, 0.5);
+
+    /* Typography */
     --color-text-main: #1C1917;
-    --color-text-muted: #57534E;
-    --color-accent: #C85A32;
-    --color-accent-glow: rgba(200, 90, 50, 0.15);
+    --color-text-secondary: #44403C;
+    --color-text-muted: #78716C;
+
+    /* Semantics */
+    --color-success: #10B981;
+    --color-warning: #F59E0B;
+    --color-danger: #EF4444;
+    --color-info: #3B82F6;
   }
 
   .dark {
-    --color-bg-primary: #0A0A0A;
+    /* Dark Theme (Space Black & Champagne Canvas) */
+    --color-bg-base: #0A0A0A;
     --color-bg-card: rgba(26, 24, 23, 0.75);
-    --color-border-card: rgba(255, 255, 255, 0.1);
+    --color-bg-card-elevated: rgba(41, 37, 36, 0.85);
+    --color-border-card: rgba(255, 255, 255, 0.12);
+    --color-border-subtle: rgba(255, 255, 255, 0.06);
+
+    /* Typography */
     --color-text-main: #F5F5F4;
+    --color-text-secondary: #D6D3D1;
     --color-text-muted: #A8A29E;
-    --color-accent: #E07A5F;
-    --color-accent-glow: rgba(224, 122, 95, 0.25);
+
+    --color-primary: #E07A5F;
+    --color-primary-hover: #C85A32;
+    --color-accent-glow: rgba(224, 122, 95, 0.3);
   }
 
   body {
-    background-color: var(--color-bg-primary);
+    background-color: var(--color-bg-base);
     color: var(--color-text-main);
-    transition: background-color 0.4s ease, color 0.4s ease;
+    transition: background-color 0.35s ease, color 0.35s ease;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Accessible Focus States (WCAG 2.2 AA) */
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+
+  /* Skip Link for Screen Readers */
+  .skip-to-content {
+    position: absolute;
+    top: -100px;
+    left: 1rem;
+    z-index: 100;
+    padding: 0.75rem 1.25rem;
+    background: var(--color-primary);
+    color: #ffffff;
+    font-weight: 700;
+    border-radius: 0.75rem;
+    transition: top 0.2s ease-in-out;
+  }
+  .skip-to-content:focus {
+    top: 1rem;
   }
 }
 
@@ -45,7 +96,7 @@
 }
 
 .apple-card:hover {
-  transform: translateY(-3px) scale(1.008);
+  transform: translateY(-3px) scale(1.006);
   box-shadow: 0 12px 32px -4px rgba(0, 0, 0, 0.08), inset 0 1px 1px rgba(255, 255, 255, 0.8);
 }
 

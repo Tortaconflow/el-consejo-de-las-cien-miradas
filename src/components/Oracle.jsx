@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Sparkles, Compass, Send, BookOpen, ShieldAlert, ArrowRight, RefreshCw, Lightbulb, Users } from "lucide-react";
+import { Sparkles, Compass, Send, BookOpen, ShieldAlert, ArrowRight, RefreshCw, Lightbulb, Users, Copy, Check } from "lucide-react";
 import thinkersData from "../../data/thinkers.json";
 import ThinkerModal from "./ThinkerModal.jsx";
 
@@ -7,6 +7,7 @@ export default function Oracle() {
   const [dilemma, setDilemma] = useState("");
   const [consulting, setConsulting] = useState(false);
   const [verdict, setVerdict] = useState(null);
+  const [copied, setCopied] = useState(false);
   const [activeThinker, setActiveThinker] = useState(null);
 
   const sampleDilemmas = [
@@ -38,13 +39,11 @@ export default function Oracle() {
             if (t.tradicion.toLowerCase().includes(w)) score += 2;
           }
         });
-        // Add baseline diversity so we always get compelling voices
         return { thinker: t, score };
       });
 
       scored.sort((a, b) => b.score - a.score);
 
-      // Select 3 diverse voices: 1 Critical, 1 Integrator/Transcendental, 1 Ancient/Asian or Decolonial
       const topVoices = [];
       for (const item of scored) {
         if (!topVoices.some((v) => v.id === item.thinker.id)) {
@@ -53,7 +52,6 @@ export default function Oracle() {
         if (topVoices.length >= 3) break;
       }
 
-      // Ensure fallbacks if low keyword overlap
       if (topVoices.length < 3) {
         const fallbackIds = ["socrates", "laozi", "heidegger"];
         fallbackIds.forEach((id) => {
@@ -68,10 +66,18 @@ export default function Oracle() {
         query: text,
         voices: topVoices,
         synthesizedInsight:
-          "El discernimiento ético no radica en prohibir la herramienta técnica, sino en jamás delegar la deliberación del fin último ni la autoría del compromiso humano."
+          "El discernimiento ético no radica en prohibir la herramienta técnica, sino en jamás delegar la deliberación del fin último ni la autoría del juicio humano."
       });
       setConsulting(false);
-    }, 600);
+    }, 450);
+  };
+
+  const handleCopyVerdict = () => {
+    if (!verdict) return;
+    const textToCopy = `🏛️ El Consejo de las Cien Miradas\n\nDilema: “${verdict.query}”\n\nSíntesis del Consejo: ${verdict.synthesizedInsight}\n\nVoces Convocadas:\n${verdict.voices.map(v => `• ${v.nombre} (${v.tradicion}): “${v.metafora_para_comprender_la_ia}”`).join("\n")}\n\nExplora más en: https://paleturquoise-ape-474432.hostingersite.com/`;
+    navigator.clipboard.writeText(textToCopy);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2500);
   };
 
   return (
@@ -93,11 +99,12 @@ export default function Oracle() {
       {/* Input Stage */}
       <div className="apple-card p-6 sm:p-10 rounded-4xl max-w-4xl mx-auto shadow-2xl space-y-6">
         <div className="space-y-3">
-          <label className="block text-xs uppercase font-bold tracking-widest text-ink-500 dark:text-ink-400">
+          <label htmlFor="oracle-query-input" className="block text-xs uppercase font-bold tracking-widest text-ink-500 dark:text-ink-400">
             ¿Qué dilema o pregunta te inquieta?
           </label>
           <div className="relative">
             <textarea
+              id="oracle-query-input"
               rows={3}
               value={dilemma}
               onChange={(e) => setDilemma(e.target.value)}
@@ -155,11 +162,22 @@ export default function Oracle() {
       {verdict && (
         <div className="max-w-5xl mx-auto space-y-8 animate-fadeIn">
           {/* Synthesized Advice Card */}
-          <div className="apple-card p-8 sm:p-10 rounded-4xl space-y-4 border-terracotta-500/30 shadow-2xl">
-            <div className="flex items-center space-x-2 text-terracotta-700 dark:text-terracotta-400 text-xs font-bold uppercase tracking-widest">
-              <Sparkles className="w-4 h-4" />
-              <span>Síntesis de Discernimiento del Consejo</span>
+          <div className="apple-card p-8 sm:p-10 rounded-4xl space-y-4 border-terracotta-500/30 shadow-2xl relative">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center space-x-2 text-terracotta-700 dark:text-terracotta-400 text-xs font-bold uppercase tracking-widest">
+                <Sparkles className="w-4 h-4" />
+                <span>Síntesis de Discernimiento del Consejo</span>
+              </div>
+              <button
+                onClick={handleCopyVerdict}
+                className="flex items-center space-x-1.5 px-3 py-1.5 rounded-xl bg-parchment-200/80 dark:bg-white/10 text-ink-800 dark:text-ink-200 text-xs font-semibold hover:bg-parchment-300 dark:hover:bg-white/20 transition-all apple-pill"
+                title="Copiar veredicto y fuentes"
+              >
+                {copied ? <Check className="w-3.5 h-3.5 text-emerald-500" /> : <Copy className="w-3.5 h-3.5" />}
+                <span>{copied ? "Copiado" : "Compartir Veredicto"}</span>
+              </button>
             </div>
+
             <h3 className="text-xl sm:text-2xl font-serif font-bold text-ink-900 dark:text-white leading-relaxed">
               Frente al dilema: <span className="italic text-terracotta-600 dark:text-terracotta-400">“{verdict.query}”</span>
             </h3>
