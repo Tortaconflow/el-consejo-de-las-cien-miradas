@@ -1,0 +1,152 @@
+[
+  {
+    "id": "redaccion-amor",
+    "titulo": "Delegar la redacción de una carta íntima o condolencia",
+    "descripcion": "¿Debo pedirle a la IA que escriba el mensaje afectivo para una persona querida en un momento decisivo?",
+    "capacidad_comprometida": "Expresión afectiva singular, vulnerabilidad íntima y empatía encarnada.",
+    "nivel_riesgo": "Alto",
+    "preguntas_socraticas": [
+      "¿El destinatario valora la elocuencia sintáctica o el tiempo y vulnerabilidad que pusiste al redactarlo?",
+      "¿Qué ocurre con tu capacidad de nombrar el dolor si acostumbras a subcontratar tus palabras?"
+    ],
+    "voces_relevantes": [
+      {
+        "id": "martin-buber",
+        "postura": "El afecto exige un encuentro Yo-Tú; delegarlo a un Ello convierte el lazo en una farsa instrumental."
+      },
+      {
+        "id": "erasmo-rotterdam",
+        "postura": "Las buenas letras nacen del corazón sincero; un autómata elocuente carece de piedad y calidez."
+      }
+    ],
+    "contramedidas": [
+      "Escribe de tu propio puño y letra, aunque las palabras sean imperfectas o breves.",
+      "Acepta la vacilación como el testimonio vivo de tu presencia genuina."
+    ]
+  },
+  {
+    "id": "diagnostico-medico",
+    "titulo": "Delegar el diagnóstico y triaje médico de urgencias",
+    "descripcion": "¿Debe un centro hospitalario delegar en la IA el diagnóstico inicial vinculante de pacientes graves?",
+    "capacidad_comprometida": "Prudencia clínica (Phronesis), intuición diagnóstica y responsabilidad ética por la vida.",
+    "nivel_riesgo": "Existencial",
+    "preguntas_socraticas": [
+      "¿Quién asume la responsabilidad moral y jurídica si el modelo comete un error estadístico letal?",
+      "¿Puede la máquina percibir el lenguaje corporal no verbal y la angustia existencial del paciente?"
+    ],
+    "voces_relevantes": [
+      {
+        "id": "aristoteles",
+        "postura": "La medicina es el arte prudencial supremo (Phronesis); la regla general ciega no conoce el caso singular."
+      },
+      {
+        "id": "avicena",
+        "postura": "El médico debe examinar la totalidad viviente del paciente; el canon es guía, no sustituto."
+      }
+    ],
+    "contramedidas": [
+      "Utilizar la IA exclusivamente como segunda opinión consultiva no vinculante.",
+      "Asegurar la presencia de un médico humano responsable en cada decisión clínica."
+    ]
+  },
+  {
+    "id": "sentencias-judiciales",
+    "titulo": "Delegar sentencias penales y libertad condicional",
+    "descripcion": "¿Debe el sistema de justicia permitir que algoritmos decidan la libertad de una persona?",
+    "capacidad_comprometida": "Juicio moral equitativo, escucha humana del acusado y comprensión de la redención.",
+    "nivel_riesgo": "Existencial",
+    "preguntas_socraticas": [
+      "¿No reproduce el algoritmo los sesgos raciales y clasistas del historial de datos pasados?",
+      "¿Dónde queda la dignidad si el destino penal de un ser humano se calcula por probabilidad estadística?"
+    ],
+    "voces_relevantes": [
+      {
+        "id": "cesare-beccaria",
+        "postura": "La justicia exige leyes transparentes y proporcionalidad sin arbitrariedad tecnocrática oculta."
+      },
+      {
+        "id": "immanuel-kant",
+        "postura": "El ser humano es un fin en sí mismo con dignidad incondicional; jamás un dato probabilístico."
+      }
+    ],
+    "contramedidas": [
+      "Prohibición legal estricta de dictámenes judiciales autónomos sin deliberación humana.",
+      "Auditoría pública e independiente de todo software empleado en el poder judicial."
+    ]
+  },
+  {
+    "id": "aprendizaje-escolar",
+    "titulo": "Delegar la lectura comprensiva y redacción académica",
+    "descripcion": "¿Debe un estudiante usar la IA para sintetizar libros enteros y redactar sus tareas escolares?",
+    "capacidad_comprometida": "Comprensión lectora profunda, pensamiento crítico propio y memoria activa.",
+    "nivel_riesgo": "Alto",
+    "preguntas_socraticas": [
+      "¿Estudias para acumular calificaciones numéricas o para forjar una mente autónoma y crítica?",
+      "¿Cómo sabrás si el resumen de la máquina omitió la idea más subversiva del texto original?"
+    ],
+    "voces_relevantes": [
+      {
+        "id": "socrates",
+        "postura": "La sabiduría no se trasvasa como líquido entre copas; exige el esfuerzo vivo del entendimiento."
+      },
+      {
+        "id": "michel-montaigne",
+        "postura": "Saber de memoria no es saber; es conservar lo que se ha depositado en la memoria ajena."
+      }
+    ],
+    "contramedidas": [
+      "Lee la obra original anotando dudas y desacuerdos en los márgenes.",
+      "Usa la IA únicamente para contrastar tus propias conclusiones tras haber reflexionado."
+    ]
+  },
+  {
+    "id": "creacion-artistica",
+    "titulo": "Delegar la composición estética y el trazo plástico",
+    "descripcion": "¿Debe un creador generar obras artísticas finales a base de prompts automatizados sin dominio del oficio?",
+    "capacidad_comprometida": "Oficio técnico manual, experimentación sensible con el error y estilo propio.",
+    "nivel_riesgo": "Moderado",
+    "preguntas_socraticas": [
+      "¿El arte es solo el producto visual final o la lucha íntima del artista con los límites de la materia?",
+      "¿Qué queda del aura creadora si cualquier usuario puede clonar tu obra con una instrucción de texto?"
+    ],
+    "voces_relevantes": [
+      {
+        "id": "friedrich-nietzsche",
+        "postura": "La belleza creadora exige el dolor dionisiaco y la disciplina formal apolínea del espíritu."
+      },
+      {
+        "id": "platon",
+        "postura": "El arte automatizado corre el riesgo de ser un simulacro de simulacros sin raíz en la Verdad."
+      }
+    ],
+    "contramedidas": [
+      "Mantén viva la práctica analógica directa con los materiales físicos (óleo, papel, arcilla, cuerda).",
+      "Emplea la máquina para bocetar pero ejecuta la obra final a través de tu propio oficio encarnado."
+    ]
+  },
+  {
+    "id": "calibracion-confianza",
+    "titulo": "Evaluación de Confianza Calibrada (Aceptar Aciertos vs. Rechazar Errores)",
+    "descripcion": "¿Cómo calibrar el uso de un modelo para no caer ni en el rechazo ciego ni en la sobreconfianza acrítica ante alucinaciones sutiles?",
+    "capacidad_comprometida": "Detección de errores de omisión y comisión, verificación epistémica y pensamiento crítico.",
+    "nivel_riesgo": "Alto",
+    "preguntas_socraticas": [
+      "¿Eres capaz de rechazar al menos el 80% de las respuestas plausibles pero erróneas generadas por la IA?",
+      "¿Verificas las afirmaciones clave en fuentes primarias independientes antes de darlas por buenas?"
+    ],
+    "voces_relevantes": [
+      {
+        "id": "david-hume",
+        "postura": "El sabio calibra su creencia según la evidencia; la retórica elocuente no prueba la verdad de un testimonio sin comprobación."
+      },
+      {
+        "id": "socrates",
+        "postura": "Examinar la respuesta de la máquina es el deber de la mayéutica; asentir sin examen es caer en la peor ignorancia."
+      }
+    ],
+    "contramedidas": [
+      "Prueba de verificación cruzada: Comprobar fechas, fuentes y citas en repositorios canónicos.",
+      "Sembrado deliberado de dudas: Analizar la salida asumiendo que contiene un 20% de probabilidad de error o sesgo inductivo."
+    ]
+  }
+]

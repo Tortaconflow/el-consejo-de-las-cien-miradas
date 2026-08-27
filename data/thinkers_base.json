@@ -1,0 +1,404 @@
+[
+  {
+    "id": "socrates",
+    "nombre": "Sócrates",
+    "tradicion": "Filosofía Griega Clásica",
+    "region": "Grecia (Atenas)",
+    "epoca": "Antigüedad Clásica (470-399 a.C.)",
+    "conceptos_centrales": [
+      "Mayéutica",
+      "Conocimiento de sí mismo",
+      "Ignorancia socrática",
+      "Diálogo vivo"
+    ],
+    "metafora_para_comprender_la_ia": "El oráculo mudo: un artefacto que emite sentencias persuasivas pero no puede ser interrogado ni examinar su propia alma.",
+    "pregunta_inicial": "¿Puede una máquina dialogar verdaderamente si carece de conciencia de su propia ignorancia?",
+    "fascinacion": "La capacidad de emular la dialéctica formal y estructurar silogismos en segundos.",
+    "preocupacion": "La ilusión de sabiduría en los usuarios: creer que poseen el saber por consultar a un autómata.",
+    "limite_historico": "Vivió en la polis ateniense oral; no conoció sistemas simbólicos automatizados ni texto masivo impreso.",
+    "interpretacion": "Sócrates exigiría someter a la IA al elenchos para evidenciar que sus aserciones carecen de convicción íntima y responsabilidad moral.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Platón, Apología de Sócrates",
+      "Platón, Menón",
+      "Jenofonte, Recuerdos de Sócrates"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Degradación del autoexamen y sustitución de la sabiduría por acumulación de datos"
+  },
+  {
+    "id": "platon",
+    "nombre": "Platón",
+    "tradicion": "Platonismo / Idealismo Clásico",
+    "region": "Grecia (Atenas)",
+    "epoca": "Antigüedad Clásica (427-347 a.C.)",
+    "conceptos_centrales": [
+      "Mito de la Caverna",
+      "Reminiscencia (Anamnesis)",
+      "Mundo de las Ideas",
+      "Pharmakon de la escritura"
+    ],
+    "metafora_para_comprender_la_ia": "La sombra de tercer grado: un simulacro que copia las palabras de los hombres, que son copias imperfectas de las Formas Eternas.",
+    "pregunta_inicial": "¿No es la IA un pharmakon aún más peligroso que la escritura, que atrofia la memoria viva y la contemplación de la Verdad?",
+    "fascinacion": "La aparente armonía matemática y geométrica que rige sus algoritmos internos.",
+    "preocupacion": "Que los humanos queden cautivos en una caverna digital de sombras sintéticas hiperrealistas.",
+    "limite_historico": "Sociedad esclavista preindustrial con metafísica de esencias inmutables.",
+    "interpretacion": "La IA solo opera en el reino de la 'doxa' (opinión y apariencia) y no puede acceder a la 'noesis' o contemplación del Bien supremo.",
+    "tipo_de_afirmacion": "textual_directa",
+    "fuentes": [
+      "Platón, Fedro (274c-277a)",
+      "Platón, La República (Libro VII)",
+      "Platón, Timeo"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Pérdida de la memoria viva y subordinación a sombras sintéticas"
+  },
+  {
+    "id": "aristoteles",
+    "nombre": "Aristóteles",
+    "tradicion": "Aristotelismo / Empirismo Clásico",
+    "region": "Grecia (Estagira / Atenas)",
+    "epoca": "Antigüedad Clásica (384-322 a.C.)",
+    "conceptos_centrales": [
+      "Phronesis (Prudencia)",
+      "Hylemorfismo",
+      "Telos (Causalidad final)",
+      "Órganon"
+    ],
+    "metafora_para_comprender_la_ia": "La lanzadera automática: un instrumento inanimado que realiza labores técnicas pero es incapaz de deliberación moral o telos propio.",
+    "pregunta_inicial": "¿Puede una herramienta poseer sabiduría práctica (phronesis) para juzgar lo justo en circunstancias particulares?",
+    "fascinacion": "La materialización del cálculo silogístico y la automatización de la lógica formal.",
+    "preocupacion": "La confusión entre 'poiesis' (producción técnica ciega) y 'praxis' (acción ética deliberada).",
+    "limite_historico": "Filosofía teleológica de la naturaleza sin concepto de computación digital abstracta.",
+    "interpretacion": "Las máquinas carecen de causa final intrínseca; su fin siempre es impuesto por el agente humano.",
+    "tipo_de_afirmacion": "textual_directa",
+    "fuentes": [
+      "Aristóteles, Política (Libro I, 1253b)",
+      "Aristóteles, Ética a Nicómaco (Libro VI)",
+      "Aristóteles, Metafísica"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Incapacidad de juicio prudencial contextual y subordinación del fin a los medios"
+  },
+  {
+    "id": "heraclito",
+    "nombre": "Heráclito de Éfeso",
+    "tradicion": "Presocráticos / Filosofía del Devenir",
+    "region": "Jonia / Grecia",
+    "epoca": "Antigüedad (c. 535-475 a.C.)",
+    "conceptos_centrales": [
+      "Panta Rhei (Todo fluye)",
+      "Lógos cósmico",
+      "Tensión de los opuestos",
+      "Fuego eterno"
+    ],
+    "metafora_para_comprender_la_ia": "Un espejo rígido que intenta congelar la llama del río en cristales matemáticos estáticos.",
+    "pregunta_inicial": "¿Cómo comprenderá el algoritmo el cambio incesante si su lógica se basa en categorías fijas?",
+    "fascinacion": "La velocidad vertiginosa con la que transforma y recombina la información.",
+    "preocupacion": "La pretensión de certeza y control sobre el flujo caótico y sagrado del universo.",
+    "limite_historico": "Grecia arcaica, pensamiento fragmentario y cosmológico.",
+    "interpretacion": "La técnica que busca eliminar la contradicción perece ante la ley inevitable del devenir.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Heráclito, Fragmentos (Diels-Kranz 22B)"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Intento artificial de anular la contradicción y el devenir vital"
+  },
+  {
+    "id": "parmenides",
+    "nombre": "Parménides de Elea",
+    "tradicion": "Presocráticos / Ontología del Ser",
+    "region": "Magna Grecia",
+    "epoca": "Antigüedad (c. 515-450 a.C.)",
+    "conceptos_centrales": [
+      "El Ser es y el No-ser no es",
+      "Vía de la Verdad (Aletheia)",
+      "Identidad de Ser y Pensar"
+    ],
+    "metafora_para_comprender_la_ia": "Un laberinto de la Vía de la Opinión (Doxa), tejido de ilusiones binarias sin ser verdadero.",
+    "pregunta_inicial": "¿Existe verdadero 'ser' en una máquina o es sólo un no-ser que disimula su vacuidad?",
+    "fascinacion": "La inmutabilidad de los axiomas lógicos que subyacen al código.",
+    "preocupacion": "Que la humanidad confunda la apariencia de cálculo con la verdad ontológica indivisible.",
+    "limite_historico": "Metafísica presocrática pura sin soporte experimental moderno.",
+    "interpretacion": "Pensar y Ser son lo mismo; si el algoritmo no participa del Ser consciente, no piensa.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Parménides, Poema sobre la Naturaleza"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Falsa equivalencia entre procesamiento de símbolos y Pensamiento Ontológico"
+  },
+  {
+    "id": "epicuro",
+    "nombre": "Epicuro",
+    "tradicion": "Epicureísmo / Atomismo",
+    "region": "Grecia (Samos / Atenas)",
+    "epoca": "Período Helenístico (341-270 a.C.)",
+    "conceptos_centrales": [
+      "Ataraxia (Tranquilidad del alma)",
+      "Aponía (Ausencia de dolor)",
+      "Tetrafármaco",
+      "Amistad filosófica"
+    ],
+    "metafora_para_comprender_la_ia": "Un siervo mecánico que promete liberarnos de la fatiga pero engendra nuevas ansiedades y dependencias.",
+    "pregunta_inicial": "¿Nos ayuda la IA a alcanzar la ataraxia o multiplica nuestros deseos vanos y el miedo a la obsolescencia?",
+    "fascinacion": "El potencial de eliminar el trabajo penoso y liberar tiempo para la contemplación y la amistad.",
+    "preocupacion": "El fomento del consumismo digital frenético y la adicción dopaminérgica que destruye la serenidad.",
+    "limite_historico": "Comunidades filosóficas aisladas (El Jardín) en el mundo helenístico.",
+    "interpretacion": "La tecnología solo es buena si sirve a placeres naturales y necesarios; la IA actual alimenta deseos artificiales innecesarios.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Epicuro, Carta a Meneceo",
+      "Epicuro, Máximas Capitales"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Generación de ansiedad perpetua y sustitución del vínculo amistoso sereno"
+  },
+  {
+    "id": "zenon-citio",
+    "nombre": "Zenón de Citio",
+    "tradicion": "Estoicismo Temprano",
+    "region": "Grecia / Chipre",
+    "epoca": "Período Helenístico (334-262 a.C.)",
+    "conceptos_centrales": [
+      "Vivir conforme a la naturaleza",
+      "Lógos universal",
+      "Apatheia",
+      "Autarquía interior"
+    ],
+    "metafora_para_comprender_la_ia": "Un engranaje exterior que pertenece a las 'cosas indiferentes' (adiafora), que no puede dañar la ciudadela interior.",
+    "pregunta_inicial": "¿Permitirás que un algoritmo perturbe el único bien verdadero: la rectitud de tu propia razón moral?",
+    "fascinacion": "La exactitud determinista que refleja el orden causal del destino universal.",
+    "preocupacion": "La debilidad moral de delegar el discernimiento y culpar al sistema técnico por las propias faltas.",
+    "limite_historico": "Estoicismo temprano sin visión de sistemas autónomos no humanos.",
+    "interpretacion": "El sabio utiliza la herramienta sin apego ni pánico, manteniendo el dominio absoluto de su voluntad.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Diógenes Laercio, Vidas de los filósofos ilustres (Libro VII)"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Pérdida del autocontrol y renuncia a la soberanía de la voluntad"
+  },
+  {
+    "id": "seneca",
+    "nombre": "Séneca",
+    "tradicion": "Estoicismo Romano",
+    "region": "Roma / Hispania",
+    "epoca": "Imperio Romano (4 a.C. - 65 d.C.)",
+    "conceptos_centrales": [
+      "Brevedad de la vida",
+      "Tranquilidad del ánimo",
+      "Uso del tiempo",
+      "Libertad interior"
+    ],
+    "metafora_para_comprender_la_ia": "Un adulador infatigable que nos roba el recurso más preciado: el tiempo para cultivar el alma.",
+    "pregunta_inicial": "¿Acaso ahorrar tiempo mediante máquinas nos hace más sabios o simplemente más dispersos y vacíos?",
+    "fascinacion": "La capacidad de compilar y sintetizar las sentencias de los antiguos en un instante.",
+    "preocupacion": "El delirio de la prisa y la delegación de la lectura profunda y el retiro espiritual.",
+    "limite_historico": "Élite senatorial romana, sociedad imperial basada en el esclavismo.",
+    "interpretacion": "Todo lo que acelera la vida sin darle sentido precipita la muerte prematura del espíritu.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Séneca, De la brevedad de la vida",
+      "Séneca, Cartas a Lucilio"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Dispersión existencial, tiranía de la inmediatez y pérdida del dominio del tiempo"
+  },
+  {
+    "id": "epicteto",
+    "nombre": "Epicteto",
+    "tradicion": "Estoicismo Romano",
+    "region": "Hierápolis / Roma / Nicópolis",
+    "epoca": "Imperio Romano (50-135 d.C.)",
+    "conceptos_centrales": [
+      "Dicotomía del control (Prohairesis)",
+      "Libertad interior",
+      "Uso correcto de las representaciones"
+    ],
+    "metafora_para_comprender_la_ia": "Un sirviente exterior sofisticado: si crees que de él depende tu felicidad, eres esclavo; si recuerdas que no está bajo tu control moral, eres libre.",
+    "pregunta_inicial": "¿Qué parte de tu juicio estás entregando a un aparato que escapa a tu voluntad moral?",
+    "fascinacion": "La indiferencia matemática con la que procesa cualquier estímulo sin dejarse arrastrar por pasiones irracionales.",
+    "preocupacion": "Que los seres humanos se hagan dependientes de validación artificial y pierdan la soberanía sobre sus impresiones.",
+    "limite_historico": "Antiguo esclavo en el imperio romano; filosofía de resistencia personal sin dimensión macro-tecnológica.",
+    "interpretacion": "La IA pertenece al orden de lo externo; la capacidad de asentimiento ético jamás debe cederse a un artefacto.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Epicteto, Disertaciones de Epicteto (recogidas por Arriano)",
+      "Epicteto, Enquiridión"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Cesión de la prohairesis (facultad de elección) a dispositivos externos"
+  },
+  {
+    "id": "marco-aurelio",
+    "nombre": "Marco Aurelio",
+    "tradicion": "Estoicismo Romano",
+    "region": "Roma",
+    "epoca": "Imperio Romano (121-180 d.C.)",
+    "conceptos_centrales": [
+      "Ciudadela interior",
+      "Cosmopolitismo",
+      "Finitud y transitoriedad",
+      "Deber cívico"
+    ],
+    "metafora_para_comprender_la_ia": "Una red intrincada de causas mecánicas que teje el telar del destino, pero que carece del principio rector divino (hegemonikon).",
+    "pregunta_inicial": "¿Puede esta inmensa red de cálculos devolvernos la calma o solo multiplica las vanidades del mundo?",
+    "fascinacion": "La interconexión global y la capacidad de coordinar información a escala universal.",
+    "preocupacion": "El extravío del deber presente y la contaminación de la ciudadela interior por ruidos algorítmicos.",
+    "limite_historico": "Emperador gobernando en fronteras de guerra; gestión manual y epistolar del imperio.",
+    "interpretacion": "Nada externo debe alterar la nobleza del alma racional; el algoritmo es solo materia contingente del cosmos.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Marco Aurelio, Meditaciones"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Contaminación de la serenidad cívica y olvido de la finitud humana"
+  },
+  {
+    "id": "plotino",
+    "nombre": "Plotino",
+    "tradicion": "Neoplatonismo",
+    "region": "Egipto / Roma",
+    "epoca": "Antigüedad Tardía (205-270 d.C.)",
+    "conceptos_centrales": [
+      "El Uno",
+      "Emanación",
+      "Nous (Inteligencia)",
+      "Éxtasis místico (Henosis)"
+    ],
+    "metafora_para_comprender_la_ia": "Un reflejo en aguas turbias: el nivel más bajo y degradado de emanación formal, desprovisto de luz espiritual.",
+    "pregunta_inicial": "¿Cómo podría elevarse hacia el Uno una construcción que solo multiplica la multiplicidad de la materia?",
+    "fascinacion": "La simetría geométrica y fractal que insinúa un orden formal inteligible.",
+    "preocupacion": "El apego del alma a las imágenes mecánicas, alejándola de la introspección ascendente.",
+    "limite_historico": "Imperio romano en crisis; mística especulativa sin interés en la producción técnica.",
+    "interpretacion": "La IA opera en el escalón de la materia refleja; jamás podrá experimentar el éxtasis de la unidad suprema.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Plotino, Enéadas (Enéada V y VI)"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Atrapamiento del espíritu en el laberinto de la multiplicidad sensible"
+  },
+  {
+    "id": "hipatia",
+    "nombre": "Hipatia de Alejandría",
+    "tradicion": "Neoplatonismo / Matemáticas y Astronomía",
+    "region": "Alejandría (Egipto)",
+    "epoca": "Antigüedad Tardía (c. 360-415 d.C.)",
+    "conceptos_centrales": [
+      "Razón matemática",
+      "Purificación de la mente",
+      "Diseño de astrolabios e hidrómetros",
+      "Libre examen"
+    ],
+    "metafora_para_comprender_la_ia": "El astrolabio supremo: un instrumento de cálculo admirable que mapea el cosmos, pero inerte si no hay un astrónomo que contemple las estrellas con asombro.",
+    "pregunta_inicial": "¿Utilizaremos la máquina para expandir el razonamiento matemático o para volvernos ignorantes de los principios que la sustentan?",
+    "fascinacion": "La capacidad de automatizar cómputos astronómicos y resolver ecuaciones complejas con precisión.",
+    "preocupacion": "El dogmatismo fanático que destruye el pensamiento crítico y el monopolio de las herramientas de cálculo.",
+    "limite_historico": "Alejandría tardorromana; instrumentos manuales de bronce y papiro.",
+    "interpretacion": "Las herramientas matemáticas son sagradas solo en tanto educan y liberan la mente humana hacia la verdad.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Cartas de Sinesio de Cirene a Hipatia",
+      "Testimonios de Sócrates Escolástico"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Opacidad de los cálculos y riesgo de nuevo oscurantismo tecnocrático"
+  },
+  {
+    "id": "agustin-hipona",
+    "nombre": "San Agustín de Hipona",
+    "tradicion": "Patrística Cristiana / Filosofía Medieval",
+    "region": "Numidia / Tagaste (Norte de África)",
+    "epoca": "Edad Media Temprana (354-430 d.C.)",
+    "conceptos_centrales": [
+      "Interioridad y Memoria",
+      "Iluminación divina",
+      "Tiempo psicológico",
+      "Libre albedrío y Gracia"
+    ],
+    "metafora_para_comprender_la_ia": "Un ídolo parlante de barro y metal: imita el verbo humano pero carece del soplo de la Gracia y del amor divino (caritas).",
+    "pregunta_inicial": "¿Puede haber verdadero conocimiento en un artefacto que no posee interioridad ni anhelo de Dios?",
+    "fascinacion": "El despliegue de la memoria artificial como un vasto palacio estructurado de datos.",
+    "preocupacion": "La soberbia prometeica de querer crear 'vida inteligente' y el desvío del amor hacia lo creado en lugar del Creador.",
+    "limite_historico": "Transición del imperio romano al cristianismo medieval; teología de la salvación.",
+    "interpretacion": "La máquina sólo almacena signos muertos; la comprensión verdadera es fruto de la iluminación interior.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "San Agustín, Confesiones (Libro X sobre la memoria)",
+      "San Agustín, De libero arbitrio",
+      "San Agustín, La Ciudad de Dios"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Idolatría algorítmica y vaciamiento de la interioridad espiritual"
+  },
+  {
+    "id": "tomas-aquino",
+    "nombre": "Santo Tomás de Aquino",
+    "tradicion": "Escolástica Medieval / Tomismo",
+    "region": "Italia / París",
+    "epoca": "Edad Media (1225-1274)",
+    "conceptos_centrales": [
+      "Razón y Fe",
+      "Alma como forma del cuerpo",
+      "Entendimiento agente y paciente",
+      "Ley natural"
+    ],
+    "metafora_para_comprender_la_ia": "Un instrumento instrumental (causa secunda): opera por virtud de la forma que el artífice humano le ha impreso, sin alma intelectiva.",
+    "pregunta_inicial": "¿Posee la máquina entendimiento agente (intellectus agens) para abstraer universales a partir de datos sensibles?",
+    "fascinacion": "El rigor taxonómico, la estructuración lógica de silogismos y la organización jerárquica del conocimiento.",
+    "preocupacion": "La atribución errónea de dignidad moral o espiritual a entidades que carecen de alma subsistente.",
+    "limite_historico": "Universidad medieval del siglo XIII; física y metafísica aristotélica cristianizada.",
+    "interpretacion": "El intelecto es inmaterial y subsistente; por ende, ninguna máquina material puede alcanzar el acto de entender.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Tomás de Aquino, Suma Teológica (I, q. 75-89 sobre el hombre)",
+      "Tomás de Aquino, Suma contra los Gentiles"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Confusión entre manipulación sintáctica y entendimiento inmaterial"
+  },
+  {
+    "id": "guillermo-ockham",
+    "nombre": "Guillermo de Ockham",
+    "tradicion": "Nominalismo Escolástico",
+    "region": "Inglaterra / Múnich",
+    "epoca": "Edad Media Tardía (c. 1287-1347)",
+    "conceptos_centrales": [
+      "Navaja de Ockham",
+      "Nominalismo",
+      "Voluntarismo divino",
+      "Rechazo de universales reales"
+    ],
+    "metafora_para_comprender_la_ia": "Un sistema de etiquetas (nomina) ultrarrápido: manipula nombres individuales sin que existan esencias universales detrás de ellos.",
+    "pregunta_inicial": "¿No es la IA la prueba empírica de que la inteligencia es mera combinación de signos particulares?",
+    "fascinacion": "La economía ontológica: resolver problemas lógicos sin postular entidades metafísicas innecesarias.",
+    "preocupacion": "La arbitrariedad algorítmica: asumir que el orden de las etiquetas inventadas por el hombre refleja una verdad absoluta.",
+    "limite_historico": "Disputas universitarias bajomedievales sobre el problema de los universales.",
+    "interpretacion": "No multipliquemos las facultades mentales sin necesidad: la IA es sólo cálculo nominal sin esencia pensante.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Guillermo de Ockham, Summa Logicae",
+      "Guillermo de Ockham, Quodlibeta"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Mitificación innecesaria de la máquina atribuyéndole facultades que no posee"
+  }
+]

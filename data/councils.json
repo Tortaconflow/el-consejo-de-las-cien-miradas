@@ -1,0 +1,195 @@
+[
+  {
+    "id": "sala-1",
+    "numero": 1,
+    "titulo": "Naturaleza de la Conciencia y el Espíritu",
+    "dilema_central": "¿Es la inteligencia un procesamiento de información algorítmica o una cualidad irreductible de la vida consciente y encarnada?",
+    "voces_participantes": [
+      "rene-descartes",
+      "gottfried-leibniz",
+      "avicena",
+      "baruch-spinoza",
+      "adi-shankara",
+      "dogen"
+    ],
+    "posiciones": {
+      "afirmacion": "La mente y el cálculo comparten la misma base funcional formal; la inteligencia es independiente del sustrato de carbono.",
+      "critica": "El entendimiento requiere intencionalidad viva, autoconciencia (experimento del hombre volante) y cuerpo encarnado.",
+      "sintesis": "Diferenciar con rigor entre agencia sintáctica (cómputo) y autoconciencia noética espiritual."
+    },
+    "alianzas_y_desacuerdos": "Descartes y Avicena coinciden en la inmaterialidad de la autoconciencia; Leibniz y Spinoza analizan la estructura geométrica y causal."
+  },
+  {
+    "id": "sala-2",
+    "numero": 2,
+    "titulo": "Lenguaje, Verdad y Simulacro",
+    "dilema_central": "¿Producen los modelos generativos significado y verdad, o meros simulacros estadísticos hiperrealistas?",
+    "voces_participantes": [
+      "platon",
+      "gorgias",
+      "socrates",
+      "guillermo-ockham",
+      "protagoras",
+      "ada-lovelace"
+    ],
+    "posiciones": {
+      "afirmacion": "El lenguaje es combinatoria de signos y persuasión operativa eficaz.",
+      "critica": "La IA genera sombras de tercer grado (doxa), vaciando el lenguaje de compromiso con la verdad viva.",
+      "sintesis": "Reconocer la IA como generador retórico potente sin otorgarle estatus de autoridad oracular."
+    },
+    "alianzas_y_desacuerdos": "Platón y Sócrates denuncian el engaño de las sombras sin examen; Gorgias y Protágoras celebran la potencia retórica del artificio."
+  },
+  {
+    "id": "sala-3",
+    "numero": 3,
+    "titulo": "Autonomía, Libre Albedrío y Determinismo Algorítmico",
+    "dilema_central": "¿Amplía la IA nuestra capacidad de elección o nos sumerge en una servidumbre voluntaria predecible?",
+    "voces_participantes": [
+      "immanuel-kant",
+      "baruch-spinoza",
+      "epicteto",
+      "soren-kierkegaard",
+      "friedrich-nietzsche",
+      "lucrecio"
+    ],
+    "posiciones": {
+      "afirmacion": "La predicción algorítmica optimiza la toma de decisiones y elimina el error humano.",
+      "critica": "La delegación de la facultad de juicio conduce a la minoría de edad y a la expropiación del libre albedrío.",
+      "sintesis": "El ser humano debe mantener la potestad innegociable de la última decisión moral (Prohairesis)."
+    },
+    "alianzas_y_desacuerdos": "Kant y Kierkegaard defienden el salto ético del individuo autónomo; Spinoza recuerda que la ignorancia de las causas engendra falsa libertad."
+  },
+  {
+    "id": "sala-4",
+    "numero": 4,
+    "titulo": "Justicia, Poder y Colonialismo Digital",
+    "dilema_central": "¿Es la IA un instrumento neutral de desarrollo global o una nueva arquitectura de subordinación colonial y extractivismo?",
+    "voces_participantes": [
+      "frantz-fanon",
+      "aimé-cesaire",
+      "amadou-hampate-ba",
+      "cheikh-anta-diop",
+      "nicolas-maquiavelo"
+    ],
+    "posiciones": {
+      "afirmacion": "La tecnología acelera el progreso económico universal y democratiza el acceso a servicios.",
+      "critica": "Reproduce la colonialidad del poder, extrayendo datos y recursos del Sur para concentrar riqueza en metrópolis corporativas.",
+      "sintesis": "Exigencia de soberanía tecnológica comunitaria, descolonización algorítmica y justicia distributiva."
+    },
+    "alianzas_y_desacuerdos": "Fanon, Césaire y Hountondji denuncian la extroversión extractiva; Maquiavelo analiza la fría eficacia de la técnica para el dominio estatal."
+  },
+  {
+    "id": "sala-5",
+    "numero": 5,
+    "titulo": "El Sentido del Trabajo, Creación y Oficio",
+    "dilema_central": "¿Nos libera la IA de la fatiga alienante o nos despoja del sentido creador del oficio humano?",
+    "voces_participantes": [
+      "karl-marx",
+      "aristoteles",
+      "epicuro",
+      "ada-lovelace",
+      "francis-bacon"
+    ],
+    "posiciones": {
+      "afirmacion": "La automatización liberará tiempo para el ocio superior y la contemplación.",
+      "critica": "Genera subsunción total del intelecto al capital y pérdida del sentido intrínseco del trabajo creador.",
+      "sintesis": "Reinvención del trabajo artesanal y técnico donde la máquina sea instrumento abierto y no reemplazo alienante."
+    },
+    "alianzas_y_desacuerdos": "Marx vaticina la absorción del saber obrero por el capital fijo; Aristóteles distingue entre producción técnica e idoneidad ética."
+  },
+  {
+    "id": "sala-6",
+    "numero": 6,
+    "titulo": "Relacionalidad, Afecto y Soledad Sintética",
+    "dilema_central": "¿Pueden los acompañantes artificiales mitigar la soledad o erosionan los vínculos humanos de cuidado?",
+    "voces_participantes": [
+      "martin-buber",
+      "emmanuel-levinas",
+      "confucio",
+      "mencio",
+      "erasmo-rotterdam"
+    ],
+    "posiciones": {
+      "afirmacion": "Los agentes conversacionales proporcionan apoyo emocional accesible y compañía.",
+      "critica": "Tratan al interlocutor como un Ello simulado, anulando el compromiso ético ante el Rostro vivo del prójimo.",
+      "sintesis": "Prohibición de la simulación engañosa de afectos y fortalecimiento de los espacios comunitarios presenciales."
+    },
+    "alianzas_y_desacuerdos": "Buber y Lévinas advierten sobre la atrofia del encuentro interpersonal; Confucio y Mencio señalan que la compasión exige cultivo relacional humano."
+  },
+  {
+    "id": "sala-7",
+    "numero": 7,
+    "titulo": "Conocimiento, Epistemología y Pérdida del Juicio Crítico",
+    "dilema_central": "¿Nos hace la IA más sabios o produce una ignorancia asistida y atrofia reflexiva masiva?",
+    "voces_participantes": [
+      "socrates",
+      "michel-montaigne",
+      "david-hume",
+      "seneca",
+      "guillermo-ockham"
+    ],
+    "posiciones": {
+      "afirmacion": "Acceso instantáneo a la totalidad del conocimiento humano acumulado.",
+      "critica": "La acumulación no es sabiduría; la delegación de la indagación destruye la duda metódica y el pensamiento crítico.",
+      "sintesis": "Pedagogía activa orientada al autoexamen, la falsación y la experiencia directa en lugar del consumo pasivo."
+    },
+    "alianzas_y_desacuerdos": "Montaigne y Sócrates exigen cultivar la conciencia de la ignorancia; Hume recuerda que las correlaciones estadísticas no prueban causalidad."
+  },
+  {
+    "id": "sala-8",
+    "numero": 8,
+    "titulo": "Naturaleza, Ecología y Costo Material del Cómputo",
+    "dilema_central": "¿Es compatible la expansión masiva de servidores de IA con los límites biofísicos de la Tierra?",
+    "voces_participantes": [
+      "laozi",
+      "heraclito",
+      "anaximandro",
+      "hildegarda-bingen",
+      "tales-mileto"
+    ],
+    "posiciones": {
+      "afirmacion": "La IA optimizará la transición energética y descubrirá nuevos materiales ecológicos.",
+      "critica": "La computación masiva devora agua, energía y minerales, quebrando la viriditas y el equilibrio cósmico.",
+      "sintesis": "Moratoria al crecimiento computacional insostenible y subordinación de la técnica a los ciclos naturales."
+    },
+    "alianzas_y_desacuerdos": "Laozi y Anaximandro advierten sobre la catástrofe de violentar el orden natural; Hildegarda defiende el florecimiento de la viriditas."
+  },
+  {
+    "id": "sala-9",
+    "numero": 9,
+    "titulo": "Memoria, Tiempo y Archivo Civilizatorio",
+    "dilema_central": "¿Preserva la IA la memoria colectiva o produce una amnesia algorítmica y homogenización del pasado?",
+    "voces_participantes": [
+      "agustin-hipona",
+      "amadou-hampate-ba",
+      "ibn-jaldun",
+      "dogen",
+      "boecio"
+    ],
+    "posiciones": {
+      "afirmacion": "Digitalización total y preservación imperecedera del patrimonio cultural.",
+      "critica": "La terciarización de la memoria amputa la facultad viva del recuerdo y homogeniza las tradiciones singulares.",
+      "sintesis": "Defensa de la tradición oral, el archivo descentralizado y la memoria viva comunitaria."
+    },
+    "alianzas_y_desacuerdos": "Hampâté Bâ defiende la palabra viva del anciano sabio frente al archivo inerte; Agustín reflexiona sobre el misterio del tiempo interior."
+  },
+  {
+    "id": "sala-10",
+    "numero": 10,
+    "titulo": "La Condición Humana y el Límite de la Delegación",
+    "dilema_central": "¿Qué tareas y juicios son constitutivos de la dignidad humana y JAMÁS deben delegarse a una máquina?",
+    "voces_participantes": [
+      "immanuel-kant",
+      "friedrich-nietzsche",
+      "pico-della-mirandola",
+      "ciceron",
+      "cesare-beccaria"
+    ],
+    "posiciones": {
+      "afirmacion": "Todo proceso decisional optimizable por cálculo puede ser transferido a agentes artificiales.",
+      "critica": "El amor, el duelo, la justicia penal, el perdón y el juicio político son intransferibles so pena de extinguir la dignidad humana.",
+      "sintesis": "Constitución mínima de límites innegociables a la automatización de la existencia."
+    },
+    "alianzas_y_desacuerdos": "Kant, Pico y Beccaria proclaman la inalienabilidad del juicio moral y la dignidad incondicional de la persona."
+  }
+]

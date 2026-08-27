@@ -1,0 +1,54 @@
+{
+  "carta_de_autonomia": {
+    "titulo": "Carta de Autonomía Humana en la Era Algorítmica",
+    "preambulo": "Reunidas las cien miradas del pensamiento universal a través de los siglos, proclamamos que la técnica es creación de la especie humana y debe permanecer subordinada al florecimiento de la vida, la justicia y la dignidad inalienable de todas las personas.",
+    "articulos": [
+      {
+        "numero": 1,
+        "titulo": "Inalienabilidad del Juicio Moral",
+        "texto": "Ninguna decisión que afecte la vida, la libertad, el cuerpo, el duelo o la dignidad fundamental de un ser humano podrá ser delegada de forma irrevocable a un sistema algorítmico."
+      },
+      {
+        "numero": 2,
+        "titulo": "Derecho a la No-Delegación y a la Lentitud",
+        "texto": "Toda persona y comunidad tiene el derecho inalienable a resolver sus problemas mediante el diálogo humano directo, el trabajo manual y la reflexión pausada sin discriminación."
+      },
+      {
+        "numero": 3,
+        "titulo": "Soberanía sobre el Santuario Interior",
+        "texto": "La intimidad psíquica, los afectos, la atención voluntaria y el flujo de la conciencia son inviolables ante cualquier extracción o manipulación conductual privatizada."
+      },
+      {
+        "numero": 4,
+        "titulo": "Transparencia y Distinción del Simulacro",
+        "texto": "Todo sistema artificial tiene la obligación ontológica de declarar su naturaleza no humana. Queda prohibida la simulación engañosa de reciprocidad afectiva."
+      },
+      {
+        "numero": 5,
+        "titulo": "Límites Biofísicos y Justicia Ecológica",
+        "texto": "El desarrollo computacional debe subordinarse estrictamente a los límites ecológicos del planeta y a la preservación del agua y la tierra viva."
+      }
+    ]
+  },
+  "constitucion_minima": {
+    "titulo": "Constitución Mínima para la Convivencia Humano-Máquina",
+    "principios": [
+      {
+        "nombre": "Principio de Servidumbre Instrumental",
+        "descripcion": "Las máquinas son herramientas sin estatuto ontológico de persona ni pretensión de superioridad moral."
+      },
+      {
+        "nombre": "Principio de Auditoría y Memoria Abierta",
+        "descripcion": "Ninguna caja negra propietaria regirá los destinos públicos sin acceso universal a su arquitectura y datos."
+      },
+      {
+        "nombre": "Principio de Responsabilidad Humana Indeleble",
+        "descripcion": "Detrás de todo algoritmo existe siempre una persona jurídica o natural responsable ética y legalmente."
+      }
+    ]
+  },
+  "manifiesto_final": {
+    "titulo": "Manifiesto del Consejo de las Cien Miradas",
+    "declaracion": "No tememos a la máquina por lo que hace, sino por lo que el ser humano deja de hacer cuando se acostumbra a su mandato. Reivindicamos el coraje socrático de la duda, el calor confuciano del rito compartido, el abrazo del Estar comunitario y la pasión kantiana por la mayoría de edad. La inteligencia sin corazón es sólo ruina de la libertad."
+  }
+}

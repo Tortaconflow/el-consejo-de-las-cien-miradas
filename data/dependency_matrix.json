@@ -1,0 +1,147 @@
+{
+  "fases": [
+    {
+      "nivel": 1,
+      "nombre": "Ayuda",
+      "definicion": "La herramienta asiste en labores mecánicas sin alterar la autonomía del usuario."
+    },
+    {
+      "nivel": 2,
+      "nombre": "Hábito",
+      "definicion": "El uso se vuelve automático y cotidiano; la tarea manual empieza a percibirse como obsoleta."
+    },
+    {
+      "nivel": 3,
+      "nombre": "Delegación",
+      "definicion": "Se transfiere el inicio y la estructuración del pensamiento a la máquina."
+    },
+    {
+      "nivel": 4,
+      "nombre": "Dependencia",
+      "definicion": "Incapacidad o costo excesivo para realizar una actividad valiosa sin el soporte algorítmico (Dependencia de Capacidad vs. Dependencia Infraestructural)."
+    },
+    {
+      "nivel": 5,
+      "nombre": "Subordinación",
+      "definicion": "El criterio del sistema sustituye al juicio propio o una asimetría institucional impone la mediación sin derecho real de apelación."
+    },
+    {
+      "nivel": 6,
+      "nombre": "Pérdida de Capacidad",
+      "definicion": "Atrofia cognitiva, relacional o biológica irreversible de la facultad humana original."
+    }
+  ],
+  "dimensiones": [
+    {
+      "id": "cognitiva",
+      "nombre": "Dependencia Cognitiva",
+      "icono": "Brain",
+      "descripcion": "Atrofia del razonamiento deductivo, memoria de trabajo y juicio crítico.",
+      "ejemplo": "Incapacidad para estructurar un argumento complejo sin prompting.",
+      "riesgo_critico": "Amnesia y pasividad noética.",
+      "contramedida": "Lectura profunda analógica, cálculo mental y escritura manuscrita."
+    },
+    {
+      "id": "emocional",
+      "nombre": "Dependencia Emocional",
+      "icono": "Heart",
+      "descripcion": "Sustitución de la intimidad humana vulnerable por chatbots aduladores.",
+      "ejemplo": "Confiar el desahogo afectivo a agentes conversacionales dóciles.",
+      "riesgo_critico": "Intolerancia a la fricción relacional real y soledad sintética.",
+      "contramedida": "Cultivo de encuentros presenciales Yo-Tú y escucha mutua."
+    },
+    {
+      "id": "educativa",
+      "nombre": "Dependencia Educativa",
+      "icono": "GraduationCap",
+      "descripcion": "Consumo pasivo de respuestas sintéticas prefabricadas.",
+      "ejemplo": "Estudiantes que generan trabajos automáticos sin comprender.",
+      "riesgo_critico": "Ilusión de saber sin internalización reflexiva.",
+      "contramedida": "Evaluaciones orales socráticas y pedagogía del error."
+    },
+    {
+      "id": "economica",
+      "nombre": "Dependencia Económica",
+      "icono": "TrendingDown",
+      "descripcion": "Desposesión de las habilidades del oficio y monopolio de software.",
+      "ejemplo": "Empresas incapaces de operar sin suscripciones a modelos cerrados.",
+      "riesgo_critico": "Proletarización cognitiva y vulnerabilidad operativa extrema.",
+      "contramedida": "Tecnologías locales abiertas y preservación de oficios vivos."
+    },
+    {
+      "id": "politica",
+      "nombre": "Dependencia Política",
+      "icono": "Scale",
+      "descripcion": "Cesión de la deliberación cívica y la justicia a cajas negras.",
+      "ejemplo": "Jueces que delegan la condena en predicciones de reincidencia.",
+      "riesgo_critico": "Banalidad algorítmica del mal y pérdida de rendición de cuentas.",
+      "contramedida": "Prohibición de fallos judiciales automatizados sin deliberación humana."
+    },
+    {
+      "id": "creativa",
+      "nombre": "Dependencia Creativa",
+      "icono": "Palette",
+      "descripcion": "Pérdida del oficio técnico manual y de la paciencia estética.",
+      "ejemplo": "Creadores que solo actúan como generadores de prompts.",
+      "riesgo_critico": "Homogeneización de la imaginación en clichés promediados.",
+      "contramedida": "Práctica artística analógica y exploración física de materiales."
+    },
+    {
+      "id": "cultural",
+      "nombre": "Dependencia Cultural",
+      "icono": "Globe",
+      "descripcion": "Monocultivo epistémico y borrado de saberes locales.",
+      "ejemplo": "Pérdida de cosmovisiones y lenguas no representadas en los datos.",
+      "riesgo_critico": "Epistemicidio y homogenización lingüística mundial.",
+      "contramedida": "Archivos orales autónomos y soberanía tecnológica comunitaria."
+    }
+  ],
+  "evidencia_empirica": [
+    {
+      "estudio": "Bastani et al. (PNAS 2024)",
+      "hallazgo": "Las respuestas completas de IA aumentaron la velocidad de práctica pero causaron una caída del 17% en el examen posterior sin IA. El modo tutor socrático con pistas previno el deterioro.",
+      "implicacion": "La descarga cognitiva sin andamiaje atrofia la retención y la transferencia del aprendizaje."
+    },
+    {
+      "estudio": "Noy & Zhang (Science 2023)",
+      "hallazgo": "Reducción del 40% del tiempo de redacción y aumento del 18% en calidad percibida, pero sin evaluación de competencia posterior sin asistencia.",
+      "implicacion": "La ganancia inmediata de velocidad no equivale a incremento de autonomía ni retención del saber."
+    },
+    {
+      "estudio": "Brynjolfsson, Li & Raymond (QJE 2024)",
+      "hallazgo": "Aumento del 15% en resolución de soporte, beneficiando desproporcionadamente a novatos frente a expertos.",
+      "implicacion": "Riesgo de estandarización y aplanamiento de la intuición experta situated."
+    },
+    {
+      "estudio": "Vaccaro, Almaatouq & Malone (Nature Human Behaviour 2024)",
+      "hallazgo": "Metanálisis de 106 experimentos: 'Humano + IA' superó al humano solo, pero no siempre al mejor agente aislado.",
+      "implicacion": "La complementariedad no es automática; exige supervisión con autoridad real y diseño deliberado."
+    }
+  ],
+  "cadena_responsabilidad": [
+    {
+      "paso": "1. Dato",
+      "desc": "Procedencia, consentimiento y calidad del corpus de entrenamiento."
+    },
+    {
+      "paso": "2. Inferencia",
+      "desc": "Probabilidad matemática y margen de incertidumbre declarado."
+    },
+    {
+      "paso": "3. Recomendación",
+      "desc": "Sugerencia no vinculante presentada al juicio humano."
+    },
+    {
+      "paso": "4. Decisión",
+      "desc": "Acto de discernimiento y aprobación por persona identificable."
+    },
+    {
+      "paso": "5. Consecuencia",
+      "desc": "Efectos materiales en el trabajo, la salud o los derechos."
+    },
+    {
+      "paso": "6. Reparación",
+      "desc": "Canal de apelación vinculante, revisión y resarcimiento del daño."
+    }
+  ]
+}

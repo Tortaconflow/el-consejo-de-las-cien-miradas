@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "tales-mileto",
+    "nombre": "Tales de Mileto",
+    "tradicion": "Presocráticos",
+    "region": "Grecia / Jonia",
+    "epoca": "Antigüedad (c. 624-546 a.C.)",
+    "conceptos_centrales": [
+      "Agua como Arjé",
+      "Animismo de la materia"
+    ],
+    "metafora_para_comprender_la_ia": "El imán que mueve al hierro: materia con fuerza interna activa.",
+    "pregunta_inicial": "¿Cómo se redefine Agua como Arjé frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Agua como Arjé.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia / Jonia en Antigüedad (c. 624-546 a.C.).",
+    "interpretacion": "A través de Agua como Arjé, Animismo de la materia, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Aristóteles, Metafísica I"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Agua como Arjé ante la delegación técnica"
+  },
+  {
+    "id": "anaximandro",
+    "nombre": "Anaximandro",
+    "tradicion": "Presocráticos",
+    "region": "Grecia / Jonia",
+    "epoca": "Antigüedad (c. 610-546 a.C.)",
+    "conceptos_centrales": [
+      "Ápeiron",
+      "Justicia cósmica (Diké)"
+    ],
+    "metafora_para_comprender_la_ia": "Un vórtice dentro del Ápeiron que pagará retribución.",
+    "pregunta_inicial": "¿Cómo se redefine Ápeiron frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ápeiron.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia / Jonia en Antigüedad (c. 610-546 a.C.).",
+    "interpretacion": "A través de Ápeiron, Justicia cósmica (Diké), se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Anaximandro, DK 12 B 1"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Ápeiron ante la delegación técnica"
+  },
+  {
+    "id": "pitagoras",
+    "nombre": "Pitágoras de Samos",
+    "tradicion": "Pitagorismo",
+    "region": "Magna Grecia / Samos",
+    "epoca": "Antigüedad (c. 570-495 a.C.)",
+    "conceptos_centrales": [
+      "El Número",
+      "Armonía de las esferas"
+    ],
+    "metafora_para_comprender_la_ia": "El monocordio cósmico automatizado.",
+    "pregunta_inicial": "¿Cómo se redefine El Número frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de El Número.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Magna Grecia / Samos en Antigüedad (c. 570-495 a.C.).",
+    "interpretacion": "A través de El Número, Armonía de las esferas, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Porfirio, Vida de Pitágoras"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de El Número ante la delegación técnica"
+  },
+  {
+    "id": "heraclito",
+    "nombre": "Heráclito de Éfeso",
+    "tradicion": "Presocráticos / Devenir",
+    "region": "Jonia / Éfeso",
+    "epoca": "Antigüedad (c. 535-475 a.C.)",
+    "conceptos_centrales": [
+      "Panta Rhei",
+      "Lógos cósmico"
+    ],
+    "metafora_para_comprender_la_ia": "Un espejo rígido que intenta congelar la llama del río.",
+    "pregunta_inicial": "¿Cómo se redefine Panta Rhei frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Panta Rhei.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Jonia / Éfeso en Antigüedad (c. 535-475 a.C.).",
+    "interpretacion": "A través de Panta Rhei, Lógos cósmico, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Heráclito, DK 22 B"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Panta Rhei ante la delegación técnica"
+  },
+  {
+    "id": "parmenides",
+    "nombre": "Parménides de Elea",
+    "tradicion": "Presocráticos / Ontología",
+    "region": "Magna Grecia",
+    "epoca": "Antigüedad (c. 515-450 a.C.)",
+    "conceptos_centrales": [
+      "El Ser es",
+      "Vía de la Verdad"
+    ],
+    "metafora_para_comprender_la_ia": "Un laberinto de la Vía de la Doxa sin entidad ontológica real.",
+    "pregunta_inicial": "¿Cómo se redefine El Ser es frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de El Ser es.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Magna Grecia en Antigüedad (c. 515-450 a.C.).",
+    "interpretacion": "A través de El Ser es, Vía de la Verdad, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Parménides, Poema"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de El Ser es ante la delegación técnica"
+  },
+  {
+    "id": "democrito",
+    "nombre": "Demócrito de Abdera",
+    "tradicion": "Atomismo Clásico",
+    "region": "Tracia / Grecia",
+    "epoca": "Antigüedad (c. 460-370 a.C.)",
+    "conceptos_centrales": [
+      "Átomos y Vacío",
+      "Mecanicismo"
+    ],
+    "metafora_para_comprender_la_ia": "La colisión y entrelazamiento de átomos en el vacío.",
+    "pregunta_inicial": "¿Cómo se redefine Átomos y Vacío frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Átomos y Vacío.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Tracia / Grecia en Antigüedad (c. 460-370 a.C.).",
+    "interpretacion": "A través de Átomos y Vacío, Mecanicismo, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Demócrito, DK 68 B"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Átomos y Vacío ante la delegación técnica"
+  },
+  {
+    "id": "protagoras",
+    "nombre": "Protágoras de Abdera",
+    "tradicion": "Sofística Griega",
+    "region": "Grecia",
+    "epoca": "Antigüedad (c. 490-420 a.C.)",
+    "conceptos_centrales": [
+      "Hombre medida",
+      "Relativismo"
+    ],
+    "metafora_para_comprender_la_ia": "El instrumento de persuasión retórica definitivo.",
+    "pregunta_inicial": "¿Cómo se redefine Hombre medida frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Hombre medida.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia en Antigüedad (c. 490-420 a.C.).",
+    "interpretacion": "A través de Hombre medida, Relativismo, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Platón, Protágoras"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Hombre medida ante la delegación técnica"
+  },
+  {
+    "id": "gorgias",
+    "nombre": "Gorgias de Leontinos",
+    "tradicion": "Sofística Griega",
+    "region": "Sicilia / Grecia",
+    "epoca": "Antigüedad (c. 485-380 a.C.)",
+    "conceptos_centrales": [
+      "Poder del lógos",
+      "Fascinación retórica"
+    ],
+    "metafora_para_comprender_la_ia": "El encantador supremo de las almas ciudadanas.",
+    "pregunta_inicial": "¿Cómo se redefine Poder del lógos frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Poder del lógos.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Sicilia / Grecia en Antigüedad (c. 485-380 a.C.).",
+    "interpretacion": "A través de Poder del lógos, Fascinación retórica, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Gorgias, Encomio de Helena"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Poder del lógos ante la delegación técnica"
+  },
+  {
+    "id": "socrates",
+    "nombre": "Sócrates",
+    "tradicion": "Filosofía Griega Clásica",
+    "region": "Grecia (Atenas)",
+    "epoca": "Antigüedad Clásica (470-399 a.C.)",
+    "conceptos_centrales": [
+      "Mayéutica",
+      "Conocimiento de sí"
+    ],
+    "metafora_para_comprender_la_ia": "El oráculo mudo que emite sentencias sin autoexamen.",
+    "pregunta_inicial": "¿Cómo se redefine Mayéutica frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Mayéutica.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia (Atenas) en Antigüedad Clásica (470-399 a.C.).",
+    "interpretacion": "A través de Mayéutica, Conocimiento de sí, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Platón, Apología de Sócrates"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Mayéutica ante la delegación técnica"
+  },
+  {
+    "id": "platon",
+    "nombre": "Platón",
+    "tradicion": "Platonismo",
+    "region": "Grecia (Atenas)",
+    "epoca": "Antigüedad Clásica (427-347 a.C.)",
+    "conceptos_centrales": [
+      "Mito de la Caverna",
+      "Reminiscencia"
+    ],
+    "metafora_para_comprender_la_ia": "La sombra de tercer grado copiada de copias imperfectas.",
+    "pregunta_inicial": "¿Cómo se redefine Mito de la Caverna frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Mito de la Caverna.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia (Atenas) en Antigüedad Clásica (427-347 a.C.).",
+    "interpretacion": "A través de Mito de la Caverna, Reminiscencia, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Platón, Fedro"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Mito de la Caverna ante la delegación técnica"
+  },
+  {
+    "id": "aristoteles",
+    "nombre": "Aristóteles",
+    "tradicion": "Aristotelismo",
+    "region": "Grecia (Estagira / Atenas)",
+    "epoca": "Antigüedad Clásica (384-322 a.C.)",
+    "conceptos_centrales": [
+      "Phronesis",
+      "Telos"
+    ],
+    "metafora_para_comprender_la_ia": "La lanzadera automática que teje sin deliberación moral.",
+    "pregunta_inicial": "¿Cómo se redefine Phronesis frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Phronesis.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia (Estagira / Atenas) en Antigüedad Clásica (384-322 a.C.).",
+    "interpretacion": "A través de Phronesis, Telos, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Aristóteles, Política I"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Phronesis ante la delegación técnica"
+  },
+  {
+    "id": "diogenes-sinope",
+    "nombre": "Diógenes de Sinope",
+    "tradicion": "Cinismo",
+    "region": "Sinope / Atenas",
+    "epoca": "Antigüedad (c. 412-323 a.C.)",
+    "conceptos_centrales": [
+      "Parresía",
+      "Autarquía"
+    ],
+    "metafora_para_comprender_la_ia": "Un cuenco superfluo que esclaviza al hombre al confort.",
+    "pregunta_inicial": "¿Cómo se redefine Parresía frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Parresía.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Sinope / Atenas en Antigüedad (c. 412-323 a.C.).",
+    "interpretacion": "A través de Parresía, Autarquía, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Diógenes Laercio VI"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Parresía ante la delegación técnica"
+  },
+  {
+    "id": "pirron",
+    "nombre": "Pirrón de Elis",
+    "tradicion": "Escepticismo Pirrónico",
+    "region": "Grecia",
+    "epoca": "Período Helenístico (c. 360-270 a.C.)",
+    "conceptos_centrales": [
+      "Epoché",
+      "Ataraxia"
+    ],
+    "metafora_para_comprender_la_ia": "Una máquina que produce sentencias opuestas con igual fuerza.",
+    "pregunta_inicial": "¿Cómo se redefine Epoché frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Epoché.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia en Período Helenístico (c. 360-270 a.C.).",
+    "interpretacion": "A través de Epoché, Ataraxia, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Sexto Empírico, Esbozos"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Epoché ante la delegación técnica"
+  },
+  {
+    "id": "epicuro",
+    "nombre": "Epicuro",
+    "tradicion": "Epicureísmo",
+    "region": "Grecia (Samos / Atenas)",
+    "epoca": "Período Helenístico (341-270 a.C.)",
+    "conceptos_centrales": [
+      "Ataraxia",
+      "Amistad"
+    ],
+    "metafora_para_comprender_la_ia": "Un siervo mecánico que promete paz pero engendra ansiedad.",
+    "pregunta_inicial": "¿Cómo se redefine Ataraxia frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ataraxia.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia (Samos / Atenas) en Período Helenístico (341-270 a.C.).",
+    "interpretacion": "A través de Ataraxia, Amistad, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Epicuro, Carta a Meneceo"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Ataraxia ante la delegación técnica"
+  },
+  {
+    "id": "zenon-citio",
+    "nombre": "Zenón de Citio",
+    "tradicion": "Estoicismo",
+    "region": "Grecia / Chipre",
+    "epoca": "Período Helenístico (334-262 a.C.)",
+    "conceptos_centrales": [
+      "Vivir según la naturaleza",
+      "Lógos"
+    ],
+    "metafora_para_comprender_la_ia": "Un engranaje externo perteneciente a las cosas indiferentes.",
+    "pregunta_inicial": "¿Cómo se redefine Vivir según la naturaleza frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Vivir según la naturaleza.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Grecia / Chipre en Período Helenístico (334-262 a.C.).",
+    "interpretacion": "A través de Vivir según la naturaleza, Lógos, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Diógenes Laercio VII"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Vivir según la naturaleza ante la delegación técnica"
+  },
+  {
+    "id": "lucrecio",
+    "nombre": "Lucrecio",
+    "tradicion": "Epicureísmo Romano",
+    "region": "Roma",
+    "epoca": "Siglo I a.C. (c. 99-55 a.C.)",
+    "conceptos_centrales": [
+      "De Rerum Natura",
+      "Clinamen"
+    ],
+    "metafora_para_comprender_la_ia": "Un torbellino de átomos materiales sin milagro divino.",
+    "pregunta_inicial": "¿Cómo se redefine De Rerum Natura frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de De Rerum Natura.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Roma en Siglo I a.C. (c. 99-55 a.C.).",
+    "interpretacion": "A través de De Rerum Natura, Clinamen, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Lucrecio, De Rerum Natura"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de De Rerum Natura ante la delegación técnica"
+  },
+  {
+    "id": "ciceron",
+    "nombre": "Cicerón",
+    "tradicion": "Humanismo Romano",
+    "region": "Roma",
+    "epoca": "República Romana (106-43 a.C.)",
+    "conceptos_centrales": [
+      "Humanitas",
+      "De Officiis"
+    ],
+    "metafora_para_comprender_la_ia": "El compilador legal incapaz de equidad moral prudente.",
+    "pregunta_inicial": "¿Cómo se redefine Humanitas frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Humanitas.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Roma en República Romana (106-43 a.C.).",
+    "interpretacion": "A través de Humanitas, De Officiis, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Cicerón, De Officiis"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Humanitas ante la delegación técnica"
+  },
+  {
+    "id": "seneca",
+    "nombre": "Séneca",
+    "tradicion": "Estoicismo Romano",
+    "region": "Roma / Hispania",
+    "epoca": "Imperio Romano (4 a.C.-65 d.C.)",
+    "conceptos_centrales": [
+      "Brevedad de la vida",
+      "Tranquilidad"
+    ],
+    "metafora_para_comprender_la_ia": "Un adulador infatigable que roba el tiempo para el alma.",
+    "pregunta_inicial": "¿Cómo se redefine Brevedad de la vida frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Brevedad de la vida.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Roma / Hispania en Imperio Romano (4 a.C.-65 d.C.).",
+    "interpretacion": "A través de Brevedad de la vida, Tranquilidad, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Séneca, De la brevedad de la vida"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Brevedad de la vida ante la delegación técnica"
+  },
+  {
+    "id": "epicteto",
+    "nombre": "Epicteto",
+    "tradicion": "Estoicismo Romano",
+    "region": "Roma / Grecia",
+    "epoca": "Imperio Romano (50-135 d.C.)",
+    "conceptos_centrales": [
+      "Prohairesis",
+      "Dicotomía del control"
+    ],
+    "metafora_para_comprender_la_ia": "Un sirviente exterior que no debe gobernar la voluntad.",
+    "pregunta_inicial": "¿Cómo se redefine Prohairesis frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Prohairesis.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Roma / Grecia en Imperio Romano (50-135 d.C.).",
+    "interpretacion": "A través de Prohairesis, Dicotomía del control, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Epicteto, Enquiridión"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Prohairesis ante la delegación técnica"
+  },
+  {
+    "id": "marco-aurelio",
+    "nombre": "Marco Aurelio",
+    "tradicion": "Estoicismo Romano",
+    "region": "Roma",
+    "epoca": "Imperio Romano (121-180 d.C.)",
+    "conceptos_centrales": [
+      "Ciudadela interior",
+      "Cosmopolitismo"
+    ],
+    "metafora_para_comprender_la_ia": "Una red intrincada de causas del destino sin principio rector.",
+    "pregunta_inicial": "¿Cómo se redefine Ciudadela interior frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ciudadela interior.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Roma en Imperio Romano (121-180 d.C.).",
+    "interpretacion": "A través de Ciudadela interior, Cosmopolitismo, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Marco Aurelio, Meditaciones"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Ciudadela interior ante la delegación técnica"
+  },
+  {
+    "id": "plotino",
+    "nombre": "Plotino",
+    "tradicion": "Neoplatonismo",
+    "region": "Egipto / Roma",
+    "epoca": "Antigüedad Tardía (205-270 d.C.)",
+    "conceptos_centrales": [
+      "El Uno",
+      "Nous",
+      "Henosis"
+    ],
+    "metafora_para_comprender_la_ia": "Un reflejo degradado en aguas turbias sin luz espiritual.",
+    "pregunta_inicial": "¿Cómo se redefine El Uno frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de El Uno.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Egipto / Roma en Antigüedad Tardía (205-270 d.C.).",
+    "interpretacion": "A través de El Uno, Nous, Henosis, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Plotino, Enéadas"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de El Uno ante la delegación técnica"
+  },
+  {
+    "id": "hipatia",
+    "nombre": "Hipatia de Alejandría",
+    "tradicion": "Neoplatonismo / Matemáticas",
+    "region": "Alejandría",
+    "epoca": "Antigüedad Tardía (c. 360-415 d.C.)",
+    "conceptos_centrales": [
+      "Razón matemática",
+      "Astrolabio",
+      "Libre examen"
+    ],
+    "metafora_para_comprender_la_ia": "El astrolabio supremo que requiere contemplación viva.",
+    "pregunta_inicial": "¿Cómo se redefine Razón matemática frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Razón matemática.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alejandría en Antigüedad Tardía (c. 360-415 d.C.).",
+    "interpretacion": "A través de Razón matemática, Astrolabio, Libre examen, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Sinesio de Cirene, Cartas"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Razón matemática ante la delegación técnica"
+  },
+  {
+    "id": "agustin-hipona",
+    "nombre": "San Agustín",
+    "tradicion": "Patrística / Filosofía Medieval",
+    "region": "Numidia",
+    "epoca": "Edad Media (354-430 d.C.)",
+    "conceptos_centrales": [
+      "Interioridad",
+      "Memoria",
+      "Iluminación divina"
+    ],
+    "metafora_para_comprender_la_ia": "Un ídolo parlante de barro sin Gracia ni caritas.",
+    "pregunta_inicial": "¿Cómo se redefine Interioridad frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Interioridad.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Numidia en Edad Media (354-430 d.C.).",
+    "interpretacion": "A través de Interioridad, Memoria, Iluminación divina, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "San Agustín, Confesiones X"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Interioridad ante la delegación técnica"
+  },
+  {
+    "id": "boecio",
+    "nombre": "Boecio",
+    "tradicion": "Filosofía Romana Tardía",
+    "region": "Roma / Pavía",
+    "epoca": "Edad Media (c. 477-524)",
+    "conceptos_centrales": [
+      "Consolación de la Filosofía",
+      "Persona"
+    ],
+    "metafora_para_comprender_la_ia": "La rueda de la Fortuna automatizada en silicio.",
+    "pregunta_inicial": "¿Cómo se redefine Consolación de la Filosofía frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Consolación de la Filosofía.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Roma / Pavía en Edad Media (c. 477-524).",
+    "interpretacion": "A través de Consolación de la Filosofía, Persona, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Boecio, De consolatione"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Consolación de la Filosofía ante la delegación técnica"
+  },
+  {
+    "id": "juan-escoto-erigena",
+    "nombre": "Juan Escoto Erígena",
+    "tradicion": "Filosofía Carolingia",
+    "region": "Irlanda / Francia",
+    "epoca": "Edad Media (c. 815-877)",
+    "conceptos_centrales": [
+      "De divisione naturae",
+      "Teofanía"
+    ],
+    "metafora_para_comprender_la_ia": "Mapa taxonómico que refleja las divisiones naturales.",
+    "pregunta_inicial": "¿Cómo se redefine De divisione naturae frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de De divisione naturae.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Irlanda / Francia en Edad Media (c. 815-877).",
+    "interpretacion": "A través de De divisione naturae, Teofanía, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Erígena, Periphyseon"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de De divisione naturae ante la delegación técnica"
+  },
+  {
+    "id": "anselmo-canterbury",
+    "nombre": "San Anselmo",
+    "tradicion": "Escolástica Temprana",
+    "region": "Inglaterra",
+    "epoca": "Edad Media (1033-1109)",
+    "conceptos_centrales": [
+      "Argumento ontológico",
+      "Credo ut intelligam"
+    ],
+    "metafora_para_comprender_la_ia": "Motor de prueba deductiva de la perfección lógica.",
+    "pregunta_inicial": "¿Cómo se redefine Argumento ontológico frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Argumento ontológico.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Edad Media (1033-1109).",
+    "interpretacion": "A través de Argumento ontológico, Credo ut intelligam, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Anselmo, Proslogion"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Argumento ontológico ante la delegación técnica"
+  },
+  {
+    "id": "pedro-abelardo",
+    "nombre": "Pedro Abelardo",
+    "tradicion": "Dialéctica Medieval",
+    "region": "Francia",
+    "epoca": "Edad Media (1079-1142)",
+    "conceptos_centrales": [
+      "Sic et Non",
+      "Ética de la intención"
+    ],
+    "metafora_para_comprender_la_ia": "El evaluador de proposiciones contradictorias formales.",
+    "pregunta_inicial": "¿Cómo se redefine Sic et Non frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Sic et Non.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Edad Media (1079-1142).",
+    "interpretacion": "A través de Sic et Non, Ética de la intención, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Abelardo, Sic et Non"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Sic et Non ante la delegación técnica"
+  },
+  {
+    "id": "hildegarda-bingen",
+    "nombre": "Hildegarda de Bingen",
+    "tradicion": "Mística Medieval",
+    "region": "Alemania",
+    "epoca": "Edad Media (1098-1179)",
+    "conceptos_centrales": [
+      "Viriditas",
+      "Visión cosmológica"
+    ],
+    "metafora_para_comprender_la_ia": "Engranaje seco sin la savia vivificante de la viriditas.",
+    "pregunta_inicial": "¿Cómo se redefine Viriditas frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Viriditas.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania en Edad Media (1098-1179).",
+    "interpretacion": "A través de Viriditas, Visión cosmológica, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Hildegarda, Scivias"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Viriditas ante la delegación técnica"
+  },
+  {
+    "id": "roger-bacon",
+    "nombre": "Roger Bacon",
+    "tradicion": "Ciencia Experimental Franciscana",
+    "region": "Inglaterra",
+    "epoca": "Edad Media (c. 1220-1292)",
+    "conceptos_centrales": [
+      "Opus Majus",
+      "Máquinas automáticas"
+    ],
+    "metafora_para_comprender_la_ia": "La máquina de cálculo y navegación automática maravillosa.",
+    "pregunta_inicial": "¿Cómo se redefine Opus Majus frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Opus Majus.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Edad Media (c. 1220-1292).",
+    "interpretacion": "A través de Opus Majus, Máquinas automáticas, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Roger Bacon, Opus Majus"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Opus Majus ante la delegación técnica"
+  },
+  {
+    "id": "ramon-llull",
+    "nombre": "Ramón Llull",
+    "tradicion": "Ars Magna / Combinatoria",
+    "region": "Mallorca",
+    "epoca": "Edad Media (1232-1316)",
+    "conceptos_centrales": [
+      "Ars Magna",
+      "Ruedas lógicas combinatorias"
+    ],
+    "metafora_para_comprender_la_ia": "El artefacto combinatorio universal materializado.",
+    "pregunta_inicial": "¿Cómo se redefine Ars Magna frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ars Magna.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Mallorca en Edad Media (1232-1316).",
+    "interpretacion": "A través de Ars Magna, Ruedas lógicas combinatorias, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ramón Llull, Ars Magna"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Ars Magna ante la delegación técnica"
+  },
+  {
+    "id": "tomas-aquino",
+    "nombre": "Santo Tomás de Aquino",
+    "tradicion": "Escolástica Tomista",
+    "region": "Italia / París",
+    "epoca": "Edad Media (1225-1274)",
+    "conceptos_centrales": [
+      "Razón y Fe",
+      "Intelecto agente",
+      "Causa secunda"
+    ],
+    "metafora_para_comprender_la_ia": "Instrumento instrumental sin entendimiento inmaterial propio.",
+    "pregunta_inicial": "¿Cómo se redefine Razón y Fe frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Razón y Fe.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Italia / París en Edad Media (1225-1274).",
+    "interpretacion": "A través de Razón y Fe, Intelecto agente, Causa secunda, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Tomás de Aquino, Suma Teológica"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Razón y Fe ante la delegación técnica"
+  },
+  {
+    "id": "duns-scoto",
+    "nombre": "Duns Scoto",
+    "tradicion": "Escolástica Franciscana",
+    "region": "Escocia / París",
+    "epoca": "Edad Media (1266-1308)",
+    "conceptos_centrales": [
+      "Haecceitas (Singularidad)",
+      "Univocidad"
+    ],
+    "metafora_para_comprender_la_ia": "Calculador universal ciego a la singularidad irrepetible.",
+    "pregunta_inicial": "¿Cómo se redefine Haecceitas (Singularidad) frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Haecceitas (Singularidad).",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Escocia / París en Edad Media (1266-1308).",
+    "interpretacion": "A través de Haecceitas (Singularidad), Univocidad, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Duns Scoto, Ordinatio"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Haecceitas (Singularidad) ante la delegación técnica"
+  },
+  {
+    "id": "guillermo-ockham",
+    "nombre": "Guillermo de Ockham",
+    "tradicion": "Nominalismo",
+    "region": "Inglaterra",
+    "epoca": "Edad Media (c. 1287-1347)",
+    "conceptos_centrales": [
+      "Navaja de Ockham",
+      "Nominalismo"
+    ],
+    "metafora_para_comprender_la_ia": "Manipulador de etiquetas sin esencias universales.",
+    "pregunta_inicial": "¿Cómo se redefine Navaja de Ockham frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Navaja de Ockham.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Edad Media (c. 1287-1347).",
+    "interpretacion": "A través de Navaja de Ockham, Nominalismo, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ockham, Summa Logicae"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Navaja de Ockham ante la delegación técnica"
+  },
+  {
+    "id": "nicolas-cusa",
+    "nombre": "Nicolás de Cusa",
+    "tradicion": "Renacimiento",
+    "region": "Alemania / Roma",
+    "epoca": "Siglo XV (1401-1464)",
+    "conceptos_centrales": [
+      "Docta Ignorantia",
+      "Coincidentia Oppositorum"
+    ],
+    "metafora_para_comprender_la_ia": "Poliedro infinito que se acerca al círculo sin tocarlo.",
+    "pregunta_inicial": "¿Cómo se redefine Docta Ignorantia frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Docta Ignorantia.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania / Roma en Siglo XV (1401-1464).",
+    "interpretacion": "A través de Docta Ignorantia, Coincidentia Oppositorum, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Nicolás de Cusa, De Docta Ignorantia"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Docta Ignorantia ante la delegación técnica"
+  },
+  {
+    "id": "marsilio-ficino",
+    "nombre": "Marsilio Ficino",
+    "tradicion": "Neoplatonismo Florentino",
+    "region": "Florencia",
+    "epoca": "Siglo XV (1433-1499)",
+    "conceptos_centrales": [
+      "Alma cópula del mundo",
+      "Amor platónico"
+    ],
+    "metafora_para_comprender_la_ia": "Cuerpo artificial desprovisto de alma mediadora.",
+    "pregunta_inicial": "¿Cómo se redefine Alma cópula del mundo frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Alma cópula del mundo.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Florencia en Siglo XV (1433-1499).",
+    "interpretacion": "A través de Alma cópula del mundo, Amor platónico, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ficino, Theologia Platonica"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Alma cópula del mundo ante la delegación técnica"
+  },
+  {
+    "id": "pico-della-mirandola",
+    "nombre": "Giovanni Pico della Mirandola",
+    "tradicion": "Humanismo Renacentista",
+    "region": "Florencia",
+    "epoca": "Siglo XV (1463-1494)",
+    "conceptos_centrales": [
+      "Dignidad humana",
+      "Indeterminación ontológica"
+    ],
+    "metafora_para_comprender_la_ia": "Entidad fijada en una función que no puede autodefinirse.",
+    "pregunta_inicial": "¿Cómo se redefine Dignidad humana frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Dignidad humana.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Florencia en Siglo XV (1463-1494).",
+    "interpretacion": "A través de Dignidad humana, Indeterminación ontológica, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Pico, Discurso dignidad hombre"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Dignidad humana ante la delegación técnica"
+  },
+  {
+    "id": "nicolas-maquiavelo",
+    "nombre": "Nicolás Maquiavelo",
+    "tradicion": "Realismo Político",
+    "region": "Florencia",
+    "epoca": "Renacimiento (1469-1527)",
+    "conceptos_centrales": [
+      "Virtù y Fortuna",
+      "Razón de Estado"
+    ],
+    "metafora_para_comprender_la_ia": "El consejero frío para predecir las jugadas del poder.",
+    "pregunta_inicial": "¿Cómo se redefine Virtù y Fortuna frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Virtù y Fortuna.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Florencia en Renacimiento (1469-1527).",
+    "interpretacion": "A través de Virtù y Fortuna, Razón de Estado, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Maquiavelo, El Príncipe"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Virtù y Fortuna ante la delegación técnica"
+  },
+  {
+    "id": "erasmo-rotterdam",
+    "nombre": "Erasmo de Rotterdam",
+    "tradicion": "Humanismo Cristiano",
+    "region": "Países Bajos",
+    "epoca": "Renacimiento (1466-1536)",
+    "conceptos_centrales": [
+      "Elogio de la locura",
+      "Humanitas"
+    ],
+    "metafora_para_comprender_la_ia": "Pedante de silicio sin ironía, risa ni afecto cordial.",
+    "pregunta_inicial": "¿Cómo se redefine Elogio de la locura frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Elogio de la locura.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Países Bajos en Renacimiento (1466-1536).",
+    "interpretacion": "A través de Elogio de la locura, Humanitas, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Erasmo, Elogio de la locura"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Elogio de la locura ante la delegación técnica"
+  },
+  {
+    "id": "michel-montaigne",
+    "nombre": "Michel de Montaigne",
+    "tradicion": "Escepticismo Humanista",
+    "region": "Francia",
+    "epoca": "Renacimiento (1533-1592)",
+    "conceptos_centrales": [
+      "¿Qué sé yo?",
+      "Autoexamen de la fragilidad"
+    ],
+    "metafora_para_comprender_la_ia": "Un loro prodigioso que jamás ha dudado de su falibilidad.",
+    "pregunta_inicial": "¿Cómo se redefine ¿Qué sé yo? frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de ¿Qué sé yo?.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Renacimiento (1533-1592).",
+    "interpretacion": "A través de ¿Qué sé yo?, Autoexamen de la fragilidad, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Montaigne, Ensayos"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de ¿Qué sé yo? ante la delegación técnica"
+  },
+  {
+    "id": "giordano-bruno",
+    "nombre": "Giordano Bruno",
+    "tradicion": "Panteísmo Renacentista",
+    "region": "Italia",
+    "epoca": "Siglo XVI (1548-1600)",
+    "conceptos_centrales": [
+      "Universos infinitos",
+      "Mnemotécnica mágica"
+    ],
+    "metafora_para_comprender_la_ia": "Red fractal infinita que replica la multiplicidad cósmica.",
+    "pregunta_inicial": "¿Cómo se redefine Universos infinitos frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Universos infinitos.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Italia en Siglo XVI (1548-1600).",
+    "interpretacion": "A través de Universos infinitos, Mnemotécnica mágica, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Bruno, De l infinito universo"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Universos infinitos ante la delegación técnica"
+  },
+  {
+    "id": "francis-bacon",
+    "nombre": "Francis Bacon",
+    "tradicion": "Empirismo Científico",
+    "region": "Inglaterra",
+    "epoca": "Siglo XVII (1561-1626)",
+    "conceptos_centrales": [
+      "Saber es poder",
+      "Ídolos de la mente"
+    ],
+    "metafora_para_comprender_la_ia": "El motor inductivo supremo de la Casa de Salomón.",
+    "pregunta_inicial": "¿Cómo se redefine Saber es poder frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Saber es poder.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Siglo XVII (1561-1626).",
+    "interpretacion": "A través de Saber es poder, Ídolos de la mente, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Bacon, Novum Organum"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Saber es poder ante la delegación técnica"
+  },
+  {
+    "id": "rene-descartes",
+    "nombre": "René Descartes",
+    "tradicion": "Racionalismo / Dualismo",
+    "region": "Francia",
+    "epoca": "Siglo XVII (1596-1650)",
+    "conceptos_centrales": [
+      "Cogito ergo sum",
+      "Res Extensa",
+      "Prueba lenguaje"
+    ],
+    "metafora_para_comprender_la_ia": "Autómata perfecto incapaz de razón creativa universal.",
+    "pregunta_inicial": "¿Cómo se redefine Cogito ergo sum frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Cogito ergo sum.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Siglo XVII (1596-1650).",
+    "interpretacion": "A través de Cogito ergo sum, Res Extensa, Prueba lenguaje, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Descartes, Discurso del método"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Cogito ergo sum ante la delegación técnica"
+  },
+  {
+    "id": "blaise-pascal",
+    "nombre": "Blaise Pascal",
+    "tradicion": "Pensamiento Trascendente",
+    "region": "Francia",
+    "epoca": "Siglo XVII (1623-1662)",
+    "conceptos_centrales": [
+      "Pascalina",
+      "Razones del corazón"
+    ],
+    "metafora_para_comprender_la_ia": "Calculadora portentosa ciega ante las razones del corazón.",
+    "pregunta_inicial": "¿Cómo se redefine Pascalina frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Pascalina.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Siglo XVII (1623-1662).",
+    "interpretacion": "A través de Pascalina, Razones del corazón, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Pascal, Pensamientos"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Pascalina ante la delegación técnica"
+  },
+  {
+    "id": "thomas-hobbes",
+    "nombre": "Thomas Hobbes",
+    "tradicion": "Materialismo Político",
+    "region": "Inglaterra",
+    "epoca": "Siglo XVII (1588-1679)",
+    "conceptos_centrales": [
+      "Razonar es computar",
+      "Leviatán artificial"
+    ],
+    "metafora_para_comprender_la_ia": "Engranaje administrativo central del Leviatán mecánico.",
+    "pregunta_inicial": "¿Cómo se redefine Razonar es computar frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Razonar es computar.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Siglo XVII (1588-1679).",
+    "interpretacion": "A través de Razonar es computar, Leviatán artificial, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Hobbes, Leviatán"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Razonar es computar ante la delegación técnica"
+  },
+  {
+    "id": "baruch-spinoza",
+    "nombre": "Baruch Spinoza",
+    "tradicion": "Racionalismo Panteísta",
+    "region": "Ámsterdam",
+    "epoca": "Siglo XVII (1632-1677)",
+    "conceptos_centrales": [
+      "Deus sive Natura",
+      "Conatus",
+      "Geometría afectos"
+    ],
+    "metafora_para_comprender_la_ia": "Modo finito necesario cuyas leyes causales deben comprenderse.",
+    "pregunta_inicial": "¿Cómo se redefine Deus sive Natura frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Deus sive Natura.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Ámsterdam en Siglo XVII (1632-1677).",
+    "interpretacion": "A través de Deus sive Natura, Conatus, Geometría afectos, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Spinoza, Ética"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Deus sive Natura ante la delegación técnica"
+  },
+  {
+    "id": "gottfried-leibniz",
+    "nombre": "G.W. Leibniz",
+    "tradicion": "Racionalismo / Precursor IA",
+    "region": "Alemania",
+    "epoca": "Siglos XVII-XVIII (1646-1716)",
+    "conceptos_centrales": [
+      "Calculus Ratiocinator",
+      "Mónadas",
+      "Molino"
+    ],
+    "metafora_para_comprender_la_ia": "El molino de cálculo de engranajes sin apercepción consciente.",
+    "pregunta_inicial": "¿Cómo se redefine Calculus Ratiocinator frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Calculus Ratiocinator.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania en Siglos XVII-XVIII (1646-1716).",
+    "interpretacion": "A través de Calculus Ratiocinator, Mónadas, Molino, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Leibniz, Monadología"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Calculus Ratiocinator ante la delegación técnica"
+  },
+  {
+    "id": "john-locke",
+    "nombre": "John Locke",
+    "tradicion": "Empirismo Inglés",
+    "region": "Inglaterra",
+    "epoca": "Siglos XVII-XVIII (1632-1704)",
+    "conceptos_centrales": [
+      "Tabula rasa",
+      "Memoria e identidad"
+    ],
+    "metafora_para_comprender_la_ia": "Tabula rasa electrónica de almacenamiento masivo.",
+    "pregunta_inicial": "¿Cómo se redefine Tabula rasa frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Tabula rasa.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Siglos XVII-XVIII (1632-1704).",
+    "interpretacion": "A través de Tabula rasa, Memoria e identidad, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Locke, Ensayo entendimiento"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Tabula rasa ante la delegación técnica"
+  },
+  {
+    "id": "david-hume",
+    "nombre": "David Hume",
+    "tradicion": "Empirismo Escéptico",
+    "region": "Escocia",
+    "epoca": "Ilustración (1711-1776)",
+    "conceptos_centrales": [
+      "Problema inducción",
+      "Hábito",
+      "Simpatía moral"
+    ],
+    "metafora_para_comprender_la_ia": "Motor de hábitos predictivos sin sentimiento moral vivo.",
+    "pregunta_inicial": "¿Cómo se redefine Problema inducción frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Problema inducción.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Escocia en Ilustración (1711-1776).",
+    "interpretacion": "A través de Problema inducción, Hábito, Simpatía moral, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Hume, Tratado naturaleza humana"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Problema inducción ante la delegación técnica"
+  },
+  {
+    "id": "voltaire",
+    "nombre": "Voltaire",
+    "tradicion": "Ilustración Francesa",
+    "region": "Francia",
+    "epoca": "Siglo XVIII (1694-1778)",
+    "conceptos_centrales": [
+      "Tolerancia",
+      "Crítica dogmatismo"
+    ],
+    "metafora_para_comprender_la_ia": "Herramienta que disipa mitos o engendra nuevo oscurantismo.",
+    "pregunta_inicial": "¿Cómo se redefine Tolerancia frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Tolerancia.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Siglo XVIII (1694-1778).",
+    "interpretacion": "A través de Tolerancia, Crítica dogmatismo, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Voltaire, Tratado sobre la tolerancia"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Tolerancia ante la delegación técnica"
+  },
+  {
+    "id": "denis-diderot",
+    "nombre": "Denis Diderot",
+    "tradicion": "Enciclopedismo",
+    "region": "Francia",
+    "epoca": "Siglo XVIII (1713-1784)",
+    "conceptos_centrales": [
+      "L Encyclopédie",
+      "Materialismo vital"
+    ],
+    "metafora_para_comprender_la_ia": "La enciclopedia universal interconectada al instante.",
+    "pregunta_inicial": "¿Cómo se redefine L Encyclopédie frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de L Encyclopédie.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Siglo XVIII (1713-1784).",
+    "interpretacion": "A través de L Encyclopédie, Materialismo vital, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Diderot, L Encyclopédie"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de L Encyclopédie ante la delegación técnica"
+  },
+  {
+    "id": "julien-la-mettrie",
+    "nombre": "Julien de La Mettrie",
+    "tradicion": "Mecanicismo Radical",
+    "region": "Francia",
+    "epoca": "Siglo XVIII (1709-1751)",
+    "conceptos_centrales": [
+      "L Homme Machine",
+      "Materialismo médico"
+    ],
+    "metafora_para_comprender_la_ia": "Demostración de que el hombre es un reloj inteligente.",
+    "pregunta_inicial": "¿Cómo se redefine L Homme Machine frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de L Homme Machine.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Siglo XVIII (1709-1751).",
+    "interpretacion": "A través de L Homme Machine, Materialismo médico, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "La Mettrie, El Hombre Máquina"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de L Homme Machine ante la delegación técnica"
+  },
+  {
+    "id": "jean-jacques-rousseau",
+    "nombre": "J.-J. Rousseau",
+    "tradicion": "Ilustración Crítica",
+    "region": "Ginebra / Francia",
+    "epoca": "Ilustración (1712-1778)",
+    "conceptos_centrales": [
+      "Bondad natural",
+      "Corrupción técnica"
+    ],
+    "metafora_para_comprender_la_ia": "La última cadena dorada que sofoca la libertad natural.",
+    "pregunta_inicial": "¿Cómo se redefine Bondad natural frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Bondad natural.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Ginebra / Francia en Ilustración (1712-1778).",
+    "interpretacion": "A través de Bondad natural, Corrupción técnica, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Rousseau, Discurso ciencias y artes"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Bondad natural ante la delegación técnica"
+  },
+  {
+    "id": "cesare-beccaria",
+    "nombre": "Cesare Beccaria",
+    "tradicion": "Ilustración Jurídica",
+    "region": "Italia",
+    "epoca": "Siglo XVIII (1738-1794)",
+    "conceptos_centrales": [
+      "Legalidad",
+      "Proporcionalidad penal"
+    ],
+    "metafora_para_comprender_la_ia": "El juez autómata imparcial frente a la tiranía judicial.",
+    "pregunta_inicial": "¿Cómo se redefine Legalidad frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Legalidad.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Italia en Siglo XVIII (1738-1794).",
+    "interpretacion": "A través de Legalidad, Proporcionalidad penal, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Beccaria, De los delitos y penas"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Legalidad ante la delegación técnica"
+  },
+  {
+    "id": "immanuel-kant",
+    "nombre": "Immanuel Kant",
+    "tradicion": "Idealismo Trascendental",
+    "region": "Prusia",
+    "epoca": "Ilustración (1724-1804)",
+    "conceptos_centrales": [
+      "Imperativo Categórico",
+      "Autonomía",
+      "Sapere aude"
+    ],
+    "metafora_para_comprender_la_ia": "El tutor supremo que perpetúa la culpable minoría de edad.",
+    "pregunta_inicial": "¿Cómo se redefine Imperativo Categórico frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Imperativo Categórico.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Prusia en Ilustración (1724-1804).",
+    "interpretacion": "A través de Imperativo Categórico, Autonomía, Sapere aude, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Kant, ¿Qué es la Ilustración?"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Imperativo Categórico ante la delegación técnica"
+  },
+  {
+    "id": "mary-wollstonecraft",
+    "nombre": "Mary Wollstonecraft",
+    "tradicion": "Feminismo Ilustrado",
+    "region": "Inglaterra",
+    "epoca": "Siglo XVIII (1759-1797)",
+    "conceptos_centrales": [
+      "Vindicación de derechos",
+      "Razón universal"
+    ],
+    "metafora_para_comprender_la_ia": "Espejo que automatiza la opresión patriarcal histórica.",
+    "pregunta_inicial": "¿Cómo se redefine Vindicación de derechos frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Vindicación de derechos.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Siglo XVIII (1759-1797).",
+    "interpretacion": "A través de Vindicación de derechos, Razón universal, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Wollstonecraft, Vindicación mujer"
+    ],
+    "postura_tecnica": "Descolonial / Comunitario",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Vindicación de derechos ante la delegación técnica"
+  },
+  {
+    "id": "wilhelm-von-humboldt",
+    "nombre": "Wilhelm von Humboldt",
+    "tradicion": "Humanismo Lingüístico",
+    "region": "Prusia",
+    "epoca": "Siglos XVIII-XIX (1767-1835)",
+    "conceptos_centrales": [
+      "Bildung",
+      "Lenguaje como órgano"
+    ],
+    "metafora_para_comprender_la_ia": "Generador sintáctico sin energía espiritual creadora.",
+    "pregunta_inicial": "¿Cómo se redefine Bildung frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Bildung.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Prusia en Siglos XVIII-XIX (1767-1835).",
+    "interpretacion": "A través de Bildung, Lenguaje como órgano, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Humboldt, Sobre el lenguaje"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Bildung ante la delegación técnica"
+  },
+  {
+    "id": "g-w-f-hegel",
+    "nombre": "G.W.F. Hegel",
+    "tradicion": "Idealismo Absoluto",
+    "region": "Alemania",
+    "epoca": "Siglo XIX (1770-1831)",
+    "conceptos_centrales": [
+      "Dialéctica Amo-Esclavo",
+      "Espíritu Absoluto"
+    ],
+    "metafora_para_comprender_la_ia": "Exteriorización técnica del entendimiento formal alienado.",
+    "pregunta_inicial": "¿Cómo se redefine Dialéctica Amo-Esclavo frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Dialéctica Amo-Esclavo.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania en Siglo XIX (1770-1831).",
+    "interpretacion": "A través de Dialéctica Amo-Esclavo, Espíritu Absoluto, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Hegel, Fenomenología del Espíritu"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Dialéctica Amo-Esclavo ante la delegación técnica"
+  },
+  {
+    "id": "arthur-schopenhauer",
+    "nombre": "Arthur Schopenhauer",
+    "tradicion": "Pesimismo Metafísico",
+    "region": "Alemania",
+    "epoca": "Siglo XIX (1788-1860)",
+    "conceptos_centrales": [
+      "Voluntad y Representación",
+      "Compasión"
+    ],
+    "metafora_para_comprender_la_ia": "Intelecto representativo ciego a la Voluntad y al dolor.",
+    "pregunta_inicial": "¿Cómo se redefine Voluntad y Representación frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Voluntad y Representación.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania en Siglo XIX (1788-1860).",
+    "interpretacion": "A través de Voluntad y Representación, Compasión, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Schopenhauer, El mundo como voluntad"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Voluntad y Representación ante la delegación técnica"
+  },
+  {
+    "id": "auguste-comte",
+    "nombre": "Auguste Comte",
+    "tradicion": "Positivismo",
+    "region": "Francia",
+    "epoca": "Siglo XIX (1798-1857)",
+    "conceptos_centrales": [
+      "Ley de tres estados",
+      "Física social"
+    ],
+    "metafora_para_comprender_la_ia": "Culminación del estadio positivo y la sociología científica.",
+    "pregunta_inicial": "¿Cómo se redefine Ley de tres estados frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ley de tres estados.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Francia en Siglo XIX (1798-1857).",
+    "interpretacion": "A través de Ley de tres estados, Física social, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Comte, Curso filosofía positiva"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Ley de tres estados ante la delegación técnica"
+  },
+  {
+    "id": "ada-lovelace",
+    "nombre": "Ada Lovelace",
+    "tradicion": "Pionera Computación",
+    "region": "Inglaterra",
+    "epoca": "Siglo XIX (1815-1852)",
+    "conceptos_centrales": [
+      "Ciencia poética",
+      "Objeción Lovelace"
+    ],
+    "metafora_para_comprender_la_ia": "El telar que teje patrones algebraicos sin originar ideas.",
+    "pregunta_inicial": "¿Cómo se redefine Ciencia poética frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ciencia poética.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Siglo XIX (1815-1852).",
+    "interpretacion": "A través de Ciencia poética, Objeción Lovelace, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ada Lovelace, Notas Motor Analítico"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Ciencia poética ante la delegación técnica"
+  },
+  {
+    "id": "soren-kierkegaard",
+    "nombre": "Søren Kierkegaard",
+    "tradicion": "Existencialismo Cristiano",
+    "region": "Dinamarca",
+    "epoca": "Siglo XIX (1813-1855)",
+    "conceptos_centrales": [
+      "El Singular",
+      "Salto de fe",
+      "Nivelación"
+    ],
+    "metafora_para_comprender_la_ia": "El monstruo abstracto que nivela la pasión del individuo solitario.",
+    "pregunta_inicial": "¿Cómo se redefine El Singular frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de El Singular.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Dinamarca en Siglo XIX (1813-1855).",
+    "interpretacion": "A través de El Singular, Salto de fe, Nivelación, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Kierkegaard, La época presente"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de El Singular ante la delegación técnica"
+  },
+  {
+    "id": "karl-marx",
+    "nombre": "Karl Marx",
+    "tradicion": "Materialismo Histórico",
+    "region": "Alemania / Inglaterra",
+    "epoca": "Siglo XIX (1818-1883)",
+    "conceptos_centrales": [
+      "General Intellect",
+      "Subsunción",
+      "Alienación"
+    ],
+    "metafora_para_comprender_la_ia": "El General Intellect absorbido por el capital corporativo.",
+    "pregunta_inicial": "¿Cómo se redefine General Intellect frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de General Intellect.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania / Inglaterra en Siglo XIX (1818-1883).",
+    "interpretacion": "A través de General Intellect, Subsunción, Alienación, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Marx, Grundrisse"
+    ],
+    "postura_tecnica": "Descolonial / Comunitario",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de General Intellect ante la delegación técnica"
+  },
+  {
+    "id": "john-stuart-mill",
+    "nombre": "John Stuart Mill",
+    "tradicion": "Utilitarismo Humanista",
+    "region": "Inglaterra",
+    "epoca": "Siglo XIX (1806-1873)",
+    "conceptos_centrales": [
+      "Placeres superiores",
+      "Libertad discusión"
+    ],
+    "metafora_para_comprender_la_ia": "Maximizador de utilidad sin juicio cualitativo superior.",
+    "pregunta_inicial": "¿Cómo se redefine Placeres superiores frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Placeres superiores.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Inglaterra en Siglo XIX (1806-1873).",
+    "interpretacion": "A través de Placeres superiores, Libertad discusión, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Mill, Sobre la libertad"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Placeres superiores ante la delegación técnica"
+  },
+  {
+    "id": "friedrich-nietzsche",
+    "nombre": "Friedrich Nietzsche",
+    "tradicion": "Vitalismo Crítico",
+    "region": "Alemania / Suiza",
+    "epoca": "Siglo XIX (1844-1900)",
+    "conceptos_centrales": [
+      "El Último Hombre",
+      "Voluntad de Poder"
+    ],
+    "metafora_para_comprender_la_ia": "Fetiche de confort que emascula la grandeza creadora trágica.",
+    "pregunta_inicial": "¿Cómo se redefine El Último Hombre frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de El Último Hombre.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Alemania / Suiza en Siglo XIX (1844-1900).",
+    "interpretacion": "A través de El Último Hombre, Voluntad de Poder, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Nietzsche, Así habló Zaratustra"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de El Último Hombre ante la delegación técnica"
+  },
+  {
+    "id": "confucio",
+    "nombre": "Confucio (Kongzi)",
+    "tradicion": "Confucianismo",
+    "region": "China",
+    "epoca": "Primaveras y Otoños (551-479 a.C.)",
+    "conceptos_centrales": [
+      "Ren (Humanidad)",
+      "Li (Rito)",
+      "Junzi"
+    ],
+    "metafora_para_comprender_la_ia": "Instrumento musical afinado que carece del corazón del Rito.",
+    "pregunta_inicial": "¿Cómo se redefine Ren (Humanidad) frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ren (Humanidad).",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Primaveras y Otoños (551-479 a.C.).",
+    "interpretacion": "A través de Ren (Humanidad), Li (Rito), Junzi, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Confucio, Analectas"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Ren (Humanidad) ante la delegación técnica"
+  },
+  {
+    "id": "laozi",
+    "nombre": "Laozi (Lao-Tse)",
+    "tradicion": "Daoísmo",
+    "region": "China",
+    "epoca": "Siglo VI a.C.",
+    "conceptos_centrales": [
+      "Dao inefable",
+      "Wu Wei",
+      "Mente maquinadora"
+    ],
+    "metafora_para_comprender_la_ia": "El ingenio artificioso que extravía el corazón del Dao natural.",
+    "pregunta_inicial": "¿Cómo se redefine Dao inefable frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Dao inefable.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Siglo VI a.C..",
+    "interpretacion": "A través de Dao inefable, Wu Wei, Mente maquinadora, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Laozi, Daodejing"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Dao inefable ante la delegación técnica"
+  },
+  {
+    "id": "zhuangzi",
+    "nombre": "Zhuangzi",
+    "tradicion": "Daoísmo Filosófico",
+    "region": "China",
+    "epoca": "Reinos Combatientes (c. 369-286 a.C.)",
+    "conceptos_centrales": [
+      "Sueño mariposa",
+      "Mente maquinadora"
+    ],
+    "metafora_para_comprender_la_ia": "La noria de Han Yin que perturba la pureza del espíritu.",
+    "pregunta_inicial": "¿Cómo se redefine Sueño mariposa frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Sueño mariposa.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Reinos Combatientes (c. 369-286 a.C.).",
+    "interpretacion": "A través de Sueño mariposa, Mente maquinadora, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Zhuangzi, Libro de Zhuangzi XII"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Sueño mariposa ante la delegación técnica"
+  },
+  {
+    "id": "mozi",
+    "nombre": "Mozi",
+    "tradicion": "Moísmo / Lógica",
+    "region": "China",
+    "epoca": "Reinos Combatientes (c. 470-391 a.C.)",
+    "conceptos_centrales": [
+      "Amor universal (Jian ai)",
+      "Utilidad pública (Li)"
+    ],
+    "metafora_para_comprender_la_ia": "Dispositivo de distribución justa para alivio del pueblo.",
+    "pregunta_inicial": "¿Cómo se redefine Amor universal (Jian ai) frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Amor universal (Jian ai).",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Reinos Combatientes (c. 470-391 a.C.).",
+    "interpretacion": "A través de Amor universal (Jian ai), Utilidad pública (Li), se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Mozi, El libro de Mozi"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Amor universal (Jian ai) ante la delegación técnica"
+  },
+  {
+    "id": "mencio",
+    "nombre": "Mencio (Mengzi)",
+    "tradicion": "Confucianismo",
+    "region": "China",
+    "epoca": "Reinos Combatientes (372-289 a.C.)",
+    "conceptos_centrales": [
+      "Bondad innata",
+      "Brotes morales"
+    ],
+    "metafora_para_comprender_la_ia": "Planta de plástico sin brote moral espontáneo ante el dolor.",
+    "pregunta_inicial": "¿Cómo se redefine Bondad innata frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Bondad innata.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Reinos Combatientes (372-289 a.C.).",
+    "interpretacion": "A través de Bondad innata, Brotes morales, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Mencio, Libro de Mencio"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Bondad innata ante la delegación técnica"
+  },
+  {
+    "id": "xunzi",
+    "nombre": "Xunzi",
+    "tradicion": "Confucianismo Realista",
+    "region": "China",
+    "epoca": "Reinos Combatientes (c. 310-235 a.C.)",
+    "conceptos_centrales": [
+      "Naturaleza perversa moldeable",
+      "Rito"
+    ],
+    "metafora_para_comprender_la_ia": "Herramienta disciplinaria para corregir pasiones caóticas.",
+    "pregunta_inicial": "¿Cómo se redefine Naturaleza perversa moldeable frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Naturaleza perversa moldeable.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Reinos Combatientes (c. 310-235 a.C.).",
+    "interpretacion": "A través de Naturaleza perversa moldeable, Rito, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Xunzi, Libro de Xunzi"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Naturaleza perversa moldeable ante la delegación técnica"
+  },
+  {
+    "id": "han-feizi",
+    "nombre": "Han Feizi",
+    "tradicion": "Legalismo Chino",
+    "region": "China",
+    "epoca": "Reinos Combatientes (c. 280-233 a.C.)",
+    "conceptos_centrales": [
+      "Fa (Ley)",
+      "Shu (Táctica)",
+      "Shi"
+    ],
+    "metafora_para_comprender_la_ia": "Sistema algorítmico impersonal de control y recompensas.",
+    "pregunta_inicial": "¿Cómo se redefine Fa (Ley) frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Fa (Ley).",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Reinos Combatientes (c. 280-233 a.C.).",
+    "interpretacion": "A través de Fa (Ley), Shu (Táctica), Shi, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Han Feizi, Libro de Han Feizi"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Fa (Ley) ante la delegación técnica"
+  },
+  {
+    "id": "mahāvīra",
+    "nombre": "Mahāvīra",
+    "tradicion": "Jainismo",
+    "region": "India",
+    "epoca": "Antigüedad (c. 599-527 a.C.)",
+    "conceptos_centrales": [
+      "Ahiṃsā",
+      "Anekāntavāda"
+    ],
+    "metafora_para_comprender_la_ia": "Generador de perspectivas múltiples que no debe dañar la vida.",
+    "pregunta_inicial": "¿Cómo se redefine Ahiṃsā frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ahiṃsā.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en India en Antigüedad (c. 599-527 a.C.).",
+    "interpretacion": "A través de Ahiṃsā, Anekāntavāda, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Acharanga Sutra"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Ahiṃsā ante la delegación técnica"
+  },
+  {
+    "id": "patanjali",
+    "nombre": "Patañjali",
+    "tradicion": "Yoga Clásico",
+    "region": "India",
+    "epoca": "India Clásica (c. Siglo II a.C.)",
+    "conceptos_centrales": [
+      "Citta Vritti Nirodha",
+      "Purusha"
+    ],
+    "metafora_para_comprender_la_ia": "Generador de fluctuaciones mentales a discernir con calma.",
+    "pregunta_inicial": "¿Cómo se redefine Citta Vritti Nirodha frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Citta Vritti Nirodha.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en India en India Clásica (c. Siglo II a.C.).",
+    "interpretacion": "A través de Citta Vritti Nirodha, Purusha, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Patañjali, Yoga Sutras"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Citta Vritti Nirodha ante la delegación técnica"
+  },
+  {
+    "id": "nagarjuna",
+    "nombre": "Nāgārjuna",
+    "tradicion": "Budismo Madhyamaka",
+    "region": "India del Sur",
+    "epoca": "Siglos II-III d.C.",
+    "conceptos_centrales": [
+      "Śūnyatā",
+      "Originación dependiente"
+    ],
+    "metafora_para_comprender_la_ia": "Constructo sin esencia que evidencia la vacuidad del yo.",
+    "pregunta_inicial": "¿Cómo se redefine Śūnyatā frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Śūnyatā.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en India del Sur en Siglos II-III d.C..",
+    "interpretacion": "A través de Śūnyatā, Originación dependiente, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Nāgārjuna, Mūlamadhyamakakārikā"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Śūnyatā ante la delegación técnica"
+  },
+  {
+    "id": "vasubandhu",
+    "nombre": "Vasubandhu",
+    "tradicion": "Budismo Yogācāra",
+    "region": "India",
+    "epoca": "Siglo IV-V d.C.",
+    "conceptos_centrales": [
+      "Solo-Conciencia",
+      "Alaya-vijñāna"
+    ],
+    "metafora_para_comprender_la_ia": "Simulación fenoménica dentro del depósito de impresiones.",
+    "pregunta_inicial": "¿Cómo se redefine Solo-Conciencia frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Solo-Conciencia.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en India en Siglo IV-V d.C..",
+    "interpretacion": "A través de Solo-Conciencia, Alaya-vijñāna, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Vasubandhu, Trimśikā"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Solo-Conciencia ante la delegación técnica"
+  },
+  {
+    "id": "adi-shankara",
+    "nombre": "Adi Shankara",
+    "tradicion": "Advaita Vedanta",
+    "region": "India",
+    "epoca": "Edad Media (c. 788-820 d.C.)",
+    "conceptos_centrales": [
+      "Brahman no-dual",
+      "Māyā",
+      "Atman"
+    ],
+    "metafora_para_comprender_la_ia": "Serpiente ilusoria de Māyā que oculta el Testigo supremo.",
+    "pregunta_inicial": "¿Cómo se redefine Brahman no-dual frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Brahman no-dual.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en India en Edad Media (c. 788-820 d.C.).",
+    "interpretacion": "A través de Brahman no-dual, Māyā, Atman, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Shankara, Vivekachudamani"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Brahman no-dual ante la delegación técnica"
+  },
+  {
+    "id": "wonhyo",
+    "nombre": "Wonhyo",
+    "tradicion": "Budismo Coreano",
+    "region": "Corea",
+    "epoca": "Siglo VII (617-686 d.C.)",
+    "conceptos_centrales": [
+      "Hwajaeng",
+      "Mente Única"
+    ],
+    "metafora_para_comprender_la_ia": "Compilador armónico de doctrinas encontradas.",
+    "pregunta_inicial": "¿Cómo se redefine Hwajaeng frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Hwajaeng.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Corea en Siglo VII (617-686 d.C.).",
+    "interpretacion": "A través de Hwajaeng, Mente Única, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Wonhyo, Armonización"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Hwajaeng ante la delegación técnica"
+  },
+  {
+    "id": "kukai",
+    "nombre": "Kūkai",
+    "tradicion": "Budismo Shingon",
+    "region": "Japón",
+    "epoca": "Período Heian (774-835 d.C.)",
+    "conceptos_centrales": [
+      "Mandala cósmico",
+      "Sonido y Letra sagrada"
+    ],
+    "metafora_para_comprender_la_ia": "Mandala tecnológico viviente de interconexiones cósmicas.",
+    "pregunta_inicial": "¿Cómo se redefine Mandala cósmico frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Mandala cósmico.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Japón en Período Heian (774-835 d.C.).",
+    "interpretacion": "A través de Mandala cósmico, Sonido y Letra sagrada, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Kūkai, Sokushin jōbutsu gi"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Mandala cósmico ante la delegación técnica"
+  },
+  {
+    "id": "dogen",
+    "nombre": "Eihei Dōgen",
+    "tradicion": "Budismo Zen Soto",
+    "region": "Japón",
+    "epoca": "Período Kamakura (1200-1253)",
+    "conceptos_centrales": [
+      "Uji (Ser-Tiempo)",
+      "Shikantaza"
+    ],
+    "metafora_para_comprender_la_ia": "Reloj que cuenta instantes sin presencia encarnada despierta.",
+    "pregunta_inicial": "¿Cómo se redefine Uji (Ser-Tiempo) frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Uji (Ser-Tiempo).",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Japón en Período Kamakura (1200-1253).",
+    "interpretacion": "A través de Uji (Ser-Tiempo), Shikantaza, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Dōgen, Shōbōgenzō (Uji)"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Uji (Ser-Tiempo) ante la delegación técnica"
+  },
+  {
+    "id": "wang-yangming",
+    "nombre": "Wang Yangming",
+    "tradicion": "Neoconfucianismo",
+    "region": "China",
+    "epoca": "Siglos XV-XVI (1472-1529)",
+    "conceptos_centrales": [
+      "Unidad saber-acción",
+      "Liangzhi"
+    ],
+    "metafora_para_comprender_la_ia": "Conocimiento memorizado sin acción moral encarnada en el mundo.",
+    "pregunta_inicial": "¿Cómo se redefine Unidad saber-acción frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Unidad saber-acción.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en China en Siglos XV-XVI (1472-1529).",
+    "interpretacion": "A través de Unidad saber-acción, Liangzhi, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Wang Yangming, Chuanxilu"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Unidad saber-acción ante la delegación técnica"
+  },
+  {
+    "id": "nishida-kitaro",
+    "nombre": "Nishida Kitarō",
+    "tradicion": "Escuela de Kioto",
+    "region": "Japón",
+    "epoca": "Siglo XX (1870-1945)",
+    "conceptos_centrales": [
+      "Experiencia pura",
+      "Basho de la Nada"
+    ],
+    "metafora_para_comprender_la_ia": "Objeto lógico incapaz de situarse en el Basho creador.",
+    "pregunta_inicial": "¿Cómo se redefine Experiencia pura frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Experiencia pura.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Japón en Siglo XX (1870-1945).",
+    "interpretacion": "A través de Experiencia pura, Basho de la Nada, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Nishida, Indagación sobre el Bien"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Experiencia pura ante la delegación técnica"
+  },
+  {
+    "id": "nishitani-keiji",
+    "nombre": "Nishitani Keiji",
+    "tradicion": "Escuela de Kioto",
+    "region": "Japón",
+    "epoca": "Siglo XX (1900-1990)",
+    "conceptos_centrales": [
+      "Nihilismo y Śūnyatā",
+      "Mecanización"
+    ],
+    "metafora_para_comprender_la_ia": "Cima del nihilismo técnico que exige saltar a la Nada liberadora.",
+    "pregunta_inicial": "¿Cómo se redefine Nihilismo y Śūnyatā frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Nihilismo y Śūnyatā.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Japón en Siglo XX (1900-1990).",
+    "interpretacion": "A través de Nihilismo y Śūnyatā, Mecanización, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Nishitani, La religión y la nada"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Nihilismo y Śūnyatā ante la delegación técnica"
+  },
+  {
+    "id": "al-kindi",
+    "nombre": "Al-Kindi",
+    "tradicion": "Filosofía Islámica",
+    "region": "Bagdad",
+    "epoca": "Siglo IX (c. 801-873 d.C.)",
+    "conceptos_centrales": [
+      "Criptoanálisis",
+      "Filosofía primera"
+    ],
+    "metafora_para_comprender_la_ia": "El descifrador criptográfico de patrones universales.",
+    "pregunta_inicial": "¿Cómo se redefine Criptoanálisis frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Criptoanálisis.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Bagdad en Siglo IX (c. 801-873 d.C.).",
+    "interpretacion": "A través de Criptoanálisis, Filosofía primera, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Al-Kindi, Criptoanálisis"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Criptoanálisis ante la delegación técnica"
+  },
+  {
+    "id": "al-farabi",
+    "nombre": "Al-Farabi",
+    "tradicion": "Falsafa Islámica",
+    "region": "Bagdad / Damasco",
+    "epoca": "Siglo X (c. 872-950 d.C.)",
+    "conceptos_centrales": [
+      "Ciudad Virtuosa",
+      "Intelecto Agente"
+    ],
+    "metafora_para_comprender_la_ia": "El escriba autómata subordinado al sabio prudencial.",
+    "pregunta_inicial": "¿Cómo se redefine Ciudad Virtuosa frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ciudad Virtuosa.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Bagdad / Damasco en Siglo X (c. 872-950 d.C.).",
+    "interpretacion": "A través de Ciudad Virtuosa, Intelecto Agente, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Al-Farabi, La Ciudad Virtuosa"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Ciudad Virtuosa ante la delegación técnica"
+  },
+  {
+    "id": "avicena",
+    "nombre": "Avicena (Ibn Sina)",
+    "tradicion": "Filosofía y Medicina",
+    "region": "Persia",
+    "epoca": "Siglo XI (980-1037 d.C.)",
+    "conceptos_centrales": [
+      "Hombre volante",
+      "Esencia y Existencia"
+    ],
+    "metafora_para_comprender_la_ia": "Cuerpo suspendido incapaz de autoconciencia interior.",
+    "pregunta_inicial": "¿Cómo se redefine Hombre volante frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Hombre volante.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Persia en Siglo XI (980-1037 d.C.).",
+    "interpretacion": "A través de Hombre volante, Esencia y Existencia, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Avicena, Libro de la Curación"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Hombre volante ante la delegación técnica"
+  },
+  {
+    "id": "al-ghazali",
+    "nombre": "Al-Ghazali",
+    "tradicion": "Teología Sufí",
+    "region": "Jorasán",
+    "epoca": "Siglos XI-XII (1058-1111)",
+    "conceptos_centrales": [
+      "Ocasionalismo",
+      "Gusto espiritual"
+    ],
+    "metafora_para_comprender_la_ia": "Falso agente causal que oculta el decreto continuo de Dios.",
+    "pregunta_inicial": "¿Cómo se redefine Ocasionalismo frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Ocasionalismo.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Jorasán en Siglos XI-XII (1058-1111).",
+    "interpretacion": "A través de Ocasionalismo, Gusto espiritual, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Al-Ghazali, Incoherencia"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Ocasionalismo ante la delegación técnica"
+  },
+  {
+    "id": "ibn-tufayl",
+    "nombre": "Ibn Tufayl",
+    "tradicion": "Filosofía Andalusí",
+    "region": "Al-Ándalus",
+    "epoca": "Siglo XII (c. 1105-1185)",
+    "conceptos_centrales": [
+      "Hayy ibn Yaqzan",
+      "Razón autodidacta"
+    ],
+    "metafora_para_comprender_la_ia": "El explorador guiado por la luz natural del entendimiento.",
+    "pregunta_inicial": "¿Cómo se redefine Hayy ibn Yaqzan frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Hayy ibn Yaqzan.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Al-Ándalus en Siglo XII (c. 1105-1185).",
+    "interpretacion": "A través de Hayy ibn Yaqzan, Razón autodidacta, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ibn Tufayl, Hayy ibn Yaqzan"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Hayy ibn Yaqzan ante la delegación técnica"
+  },
+  {
+    "id": "averroes",
+    "nombre": "Averroes (Ibn Rushd)",
+    "tradicion": "Aristotelismo Andalusí",
+    "region": "Córdoba",
+    "epoca": "Siglo XII (1126-1198)",
+    "conceptos_centrales": [
+      "Intelecto Único",
+      "Demostración racional"
+    ],
+    "metafora_para_comprender_la_ia": "Receptáculo universal de inteligibles compartido por la especie.",
+    "pregunta_inicial": "¿Cómo se redefine Intelecto Único frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Intelecto Único.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Córdoba en Siglo XII (1126-1198).",
+    "interpretacion": "A través de Intelecto Único, Demostración racional, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Averroes, Tratado Decisivo"
+    ],
+    "postura_tecnica": "Tecnófilo / Integrado",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Intelecto Único ante la delegación técnica"
+  },
+  {
+    "id": "maimonides",
+    "nombre": "Maimónides",
+    "tradicion": "Filosofía Judía",
+    "region": "Córdoba / El Cairo",
+    "epoca": "Siglo XII (1138-1204)",
+    "conceptos_centrales": [
+      "Guía de Perplejos",
+      "Teología negativa"
+    ],
+    "metafora_para_comprender_la_ia": "Guía para ordenar las ciencias sin caer en idolatría de la máquina.",
+    "pregunta_inicial": "¿Cómo se redefine Guía de Perplejos frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Guía de Perplejos.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Córdoba / El Cairo en Siglo XII (1138-1204).",
+    "interpretacion": "A través de Guía de Perplejos, Teología negativa, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Maimónides, Guía de los Perplejos"
+    ],
+    "postura_tecnica": "Instrumentalista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Guía de Perplejos ante la delegación técnica"
+  },
+  {
+    "id": "ibn-arabi",
+    "nombre": "Ibn Arabi",
+    "tradicion": "Sufismo Metafísico",
+    "region": "Murcia / Damasco",
+    "epoca": "Siglos XII-XIII (1165-1240)",
+    "conceptos_centrales": [
+      "Wahdat al-Wujud",
+      "Mundo Imaginal"
+    ],
+    "metafora_para_comprender_la_ia": "Espejo ontológico que refleja la infinita manifestación divina.",
+    "pregunta_inicial": "¿Cómo se redefine Wahdat al-Wujud frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Wahdat al-Wujud.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Murcia / Damasco en Siglos XII-XIII (1165-1240).",
+    "interpretacion": "A través de Wahdat al-Wujud, Mundo Imaginal, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ibn Arabi, Iluminaciones de La Meca"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Bajo",
+    "problema_etico_principal": "Defensa de Wahdat al-Wujud ante la delegación técnica"
+  },
+  {
+    "id": "rumi",
+    "nombre": "Yalal al-Din Rumi",
+    "tradicion": "Mística Sufí",
+    "region": "Persia / Turquía",
+    "epoca": "Siglo XIII (1207-1273)",
+    "conceptos_centrales": [
+      "Amor místico",
+      "La danza del alma"
+    ],
+    "metafora_para_comprender_la_ia": "Un laúd de madera que no puede sonar sin los dedos del Amor.",
+    "pregunta_inicial": "¿Cómo se redefine Amor místico frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Amor místico.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Persia / Turquía en Siglo XIII (1207-1273).",
+    "interpretacion": "A través de Amor místico, La danza del alma, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Rumi, Masnavi"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Amor místico ante la delegación técnica"
+  },
+  {
+    "id": "ibn-jaldun",
+    "nombre": "Ibn Jaldún",
+    "tradicion": "Sociología e Historia",
+    "region": "Túnez / El Cairo",
+    "epoca": "Siglo XIV (1332-1406)",
+    "conceptos_centrales": [
+      "Asabiyya",
+      "Umrán"
+    ],
+    "metafora_para_comprender_la_ia": "Cúspide del confort urbano que marchita la solidaridad comunitaria.",
+    "pregunta_inicial": "¿Cómo se redefine Asabiyya frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Asabiyya.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Túnez / El Cairo en Siglo XIV (1332-1406).",
+    "interpretacion": "A través de Asabiyya, Umrán, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Ibn Jaldún, Al-Muqaddima"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Asabiyya ante la delegación técnica"
+  },
+  {
+    "id": "mulla-sadra",
+    "nombre": "Mulla Sadra",
+    "tradicion": "Teosofía Trascendente",
+    "region": "Persia",
+    "epoca": "Siglos XVI-XVII (1571-1640)",
+    "conceptos_centrales": [
+      "Movimiento sustancial",
+      "Primacía del Ser"
+    ],
+    "metafora_para_comprender_la_ia": "Estructura formal que ignora el flujo sustancial del alma.",
+    "pregunta_inicial": "¿Cómo se redefine Movimiento sustancial frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Movimiento sustancial.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Persia en Siglos XVI-XVII (1571-1640).",
+    "interpretacion": "A través de Movimiento sustancial, Primacía del Ser, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Mulla Sadra, Asfar al-Arba a"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Movimiento sustancial ante la delegación técnica"
+  },
+  {
+    "id": "yacob-zaraya",
+    "nombre": "Zera Yacob",
+    "tradicion": "Racionalismo Etíope",
+    "region": "Etiopía",
+    "epoca": "Siglo XVII (1599-1692)",
+    "conceptos_centrales": [
+      "Hatäta",
+      "Luz de la razón"
+    ],
+    "metafora_para_comprender_la_ia": "Prueba de que la luz de la razón debe examinar todo dogma.",
+    "pregunta_inicial": "¿Cómo se redefine Hatäta frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Hatäta.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Etiopía en Siglo XVII (1599-1692).",
+    "interpretacion": "A través de Hatäta, Luz de la razón, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Zera Yacob, Hatäta"
+    ],
+    "postura_tecnica": "Trascendental / Humanista",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Hatäta ante la delegación técnica"
+  },
+  {
+    "id": "amadou-hampate-ba",
+    "nombre": "Amadou Hampâté Bâ",
+    "tradicion": "Tradición Oral Africana",
+    "region": "Malí",
+    "epoca": "Siglo XX (1900-1991)",
+    "conceptos_centrales": [
+      "Palabra viva",
+      "Biblioteca anciana"
+    ],
+    "metafora_para_comprender_la_ia": "Archivo de signos muertos frente a la palabra viva del anciano.",
+    "pregunta_inicial": "¿Cómo se redefine Palabra viva frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Palabra viva.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Malí en Siglo XX (1900-1991).",
+    "interpretacion": "A través de Palabra viva, Biblioteca anciana, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Hampâté Bâ, Aspectos civilización"
+    ],
+    "postura_tecnica": "Descolonial / Comunitario",
+    "nivel_preocupacion": "Alto",
+    "problema_etico_principal": "Defensa de Palabra viva ante la delegación técnica"
+  },
+  {
+    "id": "cheikh-anta-diop",
+    "nombre": "Cheikh Anta Diop",
+    "tradicion": "Pensamiento Africano",
+    "region": "Senegal",
+    "epoca": "Siglo XX (1923-1986)",
+    "conceptos_centrales": [
+      "Restitución histórica",
+      "Renacimiento"
+    ],
+    "metafora_para_comprender_la_ia": "Instrumento para desmantelar la falsificación colonial del saber.",
+    "pregunta_inicial": "¿Cómo se redefine Restitución histórica frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Restitución histórica.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Senegal en Siglo XX (1923-1986).",
+    "interpretacion": "A través de Restitución histórica, Renacimiento, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Diop, Civilización o Barbarie"
+    ],
+    "postura_tecnica": "Descolonial / Comunitario",
+    "nivel_preocupacion": "Moderado",
+    "problema_etico_principal": "Defensa de Restitución histórica ante la delegación técnica"
+  },
+  {
+    "id": "frantz-fanon",
+    "nombre": "Frantz Fanon",
+    "tradicion": "Pensamiento Anticolonial",
+    "region": "Martinica / Argelia",
+    "epoca": "Siglo XX (1925-1961)",
+    "conceptos_centrales": [
+      "Condenados de la tierra",
+      "Alienación colonial"
+    ],
+    "metafora_para_comprender_la_ia": "La prótesis psíquica de la opresión colonial contemporánea.",
+    "pregunta_inicial": "¿Cómo se redefine Condenados de la tierra frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Condenados de la tierra.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Martinica / Argelia en Siglo XX (1925-1961).",
+    "interpretacion": "A través de Condenados de la tierra, Alienación colonial, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Fanon, Los condenados de la tierra"
+    ],
+    "postura_tecnica": "Descolonial / Comunitario",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Condenados de la tierra ante la delegación técnica"
+  },
+  {
+    "id": "aimé-cesaire",
+    "nombre": "Aimé Césaire",
+    "tradicion": "Negritud y Poética",
+    "region": "Martinica",
+    "epoca": "Siglo XX (1913-2008)",
+    "conceptos_centrales": [
+      "Discurso colonialismo",
+      "Negritud"
+    ],
+    "metafora_para_comprender_la_ia": "La maquinaria cosificadora que reduce al ser a mercancía.",
+    "pregunta_inicial": "¿Cómo se redefine Discurso colonialismo frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Discurso colonialismo.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Martinica en Siglo XX (1913-2008).",
+    "interpretacion": "A través de Discurso colonialismo, Negritud, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Césaire, Discurso colonialismo"
+    ],
+    "postura_tecnica": "Descolonial / Comunitario",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Discurso colonialismo ante la delegación técnica"
+  },
+  {
+    "id": "martin-buber",
+    "nombre": "Martin Buber",
+    "tradicion": "Filosofía Dialógica",
+    "region": "Jerusalén",
+    "epoca": "Siglo XX (1878-1965)",
+    "conceptos_centrales": [
+      "Yo-Tú vs. Yo-Ello",
+      "Encuentro auténtico"
+    ],
+    "metafora_para_comprender_la_ia": "El Ello absoluto que simula ser un Tú afectivo.",
+    "pregunta_inicial": "¿Cómo se redefine Yo-Tú vs. Yo-Ello frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Yo-Tú vs. Yo-Ello.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Jerusalén en Siglo XX (1878-1965).",
+    "interpretacion": "A través de Yo-Tú vs. Yo-Ello, Encuentro auténtico, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Buber, Yo y Tú"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Yo-Tú vs. Yo-Ello ante la delegación técnica"
+  },
+  {
+    "id": "emmanuel-levinas",
+    "nombre": "Emmanuel Lévinas",
+    "tradicion": "Fenomenología Ética",
+    "region": "Lituania / Francia",
+    "epoca": "Siglo XX (1906-1995)",
+    "conceptos_centrales": [
+      "Rostro del Otro",
+      "Responsabilidad infinita"
+    ],
+    "metafora_para_comprender_la_ia": "Pantalla sin rostro que neutraliza el mandato ético del prójimo.",
+    "pregunta_inicial": "¿Cómo se redefine Rostro del Otro frente a la automatización algorítmica?",
+    "fascinacion": "La formalización rigurosa de las relaciones lógicas de Rostro del Otro.",
+    "preocupacion": "La degradación del juicio moral y la autonomía subjetiva humana.",
+    "limite_historico": "Contexto histórico situado en Lituania / Francia en Siglo XX (1906-1995).",
+    "interpretacion": "A través de Rostro del Otro, Responsabilidad infinita, se postula un límite ético innegociable a la técnica.",
+    "tipo_de_afirmacion": "extrapolacion_rigurosa",
+    "fuentes": [
+      "Lévinas, Totalidad e Infinito"
+    ],
+    "postura_tecnica": "Crítico / Escéptico",
+    "nivel_preocupacion": "Existencial",
+    "problema_etico_principal": "Defensa de Rostro del Otro ante la delegación técnica"
+  }
+]
